@@ -1,0 +1,5 @@
+[xhpl_single] Using HPL.dat: /home/k/kimsh/HPL_Linpack/hpl-2.3/bin/EPYC_refblas/sweeps/coarse/HPL_N80000_NB192_P8Q32_pf1rf2_nbmin4_ndiv2_bc4_d0_sw2_t64.dat
+xcnf11  	libmpi.so.12 => /home/k/kimsh/.local/mpich/lib/libmpi.so.12 (0x0000715d4016e000)
+xcnf8  	libmpi.so.12 => /home/k/kimsh/.local/mpich/lib/libmpi.so.12 (0x00007fb79b5cc000)
+xcnf10  	libmpi.so.12 => /home/k/kimsh/.local/mpich/lib/libmpi.so.12 (0x00007f71b9a5d000)
+xcnf9  	libmpi.so.12 => /home/k/kimsh/.local/mpich/lib/libmpi.so.12 (0x0000734c4925e000)

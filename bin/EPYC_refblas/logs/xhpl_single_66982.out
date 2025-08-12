@@ -1,0 +1,4 @@
+xcnf0  	libmpi.so.12 => /home/k/kimsh/.local/mpich/lib/libmpi.so.12 (0x00007e7cdc669000)
+xcnf3  	libmpi.so.12 => /home/k/kimsh/.local/mpich/lib/libmpi.so.12 (0x000075f6c5ae4000)
+xcnf1  	libmpi.so.12 => /home/k/kimsh/.local/mpich/lib/libmpi.so.12 (0x000079f302754000)
+xcnf2  	libmpi.so.12 => /home/k/kimsh/.local/mpich/lib/libmpi.so.12 (0x00007ba99de15000)

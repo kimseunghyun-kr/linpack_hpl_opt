@@ -1,0 +1,2 @@
+Node,Model,CPU(s),Cores/Socket,Threads/Core,Sockets,Memory(GB)
+xcng0,Neoverse-N1,128,128,1,1,1.0Ti

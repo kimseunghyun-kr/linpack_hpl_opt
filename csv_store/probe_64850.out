@@ -1,0 +1,7 @@
+== module avail aocl ==
+(module cmd not present)
+
+== ldconfig for BLIS / AOCL ==
+(nothing in ldconfig cache)
+
+== filesystem scan for libblis-mt.a ==

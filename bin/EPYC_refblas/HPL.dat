@@ -1,0 +1,33 @@
+HPLinpack benchmark input file
+Innovative Computing Laboratory, University of Tennessee
+HPL.out
+6
+1
+160000
+1
+320
+0
+1
+8
+1
+32
+16.0
+1
+1
+1
+4
+1
+2
+1
+2
+1
+4
+1
+1
+1
+2
+64
+0
+0
+1
+8

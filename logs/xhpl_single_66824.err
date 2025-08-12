@@ -1,0 +1,10 @@
+HPL ERROR from process # 0, on line 491 of function HPL_pdinfo:
+>>> Value of NDIV less than 2 <<<
+
+HPL ERROR from process # 0, on line 621 of function HPL_pdinfo:
+>>> Illegal input in file HPL.dat. Exiting ... <<<
+
+srun: error: xcnf9: tasks 0-63: Exited with exit code 1
+srun: error: xcnf10: tasks 64-127: Exited with exit code 1
+srun: error: xcnf12: tasks 192-255: Exited with exit code 1
+srun: error: xcnf11: tasks 128-191: Exited with exit code 1

@@ -1,0 +1,12 @@
+===========  BLAS / LAPACK PROBE  ===========
+
+(module command not present)
+
+== ldconfig -p (searching for BLAS libraries) ==
+(nothing in ldconfig cache)
+
+== filesystem scan (up to depth 4) ==
+
+== OpenBLAS runtime self-test (if present) ==
+(openblas_get_config symbol not found)
+===========  END PROBE  ===========

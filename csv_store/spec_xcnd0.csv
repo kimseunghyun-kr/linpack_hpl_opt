@@ -1,0 +1,2 @@
+Node,Model,CPU(s),Cores/Socket,Threads/Core,Sockets,Memory(GB)
+xcnd0,Intel(R) Xeon(R) CPU E5-2620 v3 @ 2.40GHz,24,6,2,2,125Gi
