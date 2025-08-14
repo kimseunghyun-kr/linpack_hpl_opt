@@ -44,7 +44,7 @@ RESULTS_DIR.mkdir(parents=True, exist_ok=True)
 LOGS_DIR.mkdir(parents=True, exist_ok=True)
 
 # Path to the Slurm batch script (single run)
-SBATCH_SCRIPT = Path(__file__).parent.resolve() / "xhpl_single.slurm"
+SBATCH_SCRIPT = Path(__file__).parent.resolve() / "xhpl_single_refblas.slurm"
 
 # Slurm submission behavior
 SUBMIT_RATE_LIMIT = 2          # submit in bursts of this size, then wait

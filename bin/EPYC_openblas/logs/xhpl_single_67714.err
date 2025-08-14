@@ -1,0 +1,3 @@
+srun: Job step aborted: Waiting up to 32 seconds for job step to finish.
+[2025-08-13T18:08:35.018] error: *** JOB 67714 ON xcnf8 CANCELLED AT 2025-08-13T18:08:35 DUE TO TIME LIMIT ***
+[2025-08-13T18:08:35.021] error: *** STEP 67714.1 ON xcnf8 CANCELLED AT 2025-08-13T18:08:35 DUE TO TIME LIMIT ***

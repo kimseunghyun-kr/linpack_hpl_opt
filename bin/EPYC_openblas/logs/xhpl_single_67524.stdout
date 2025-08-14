@@ -1,0 +1,880 @@
+[1755061147.405673564] xcnf9:rank98.psm3_getenv: Invalid value for PSM3_ADDR_FMT ('ipv4') Select address format for NICs and EPID  Using: 0
+[1755061147.811807782] xcnf8:rank8.psm3_getenv: Invalid value for PSM3_ADDR_FMT ('ipv4') Select address format for NICs and EPID  Using: 0
+[1755061147.949480977] xcnf9:rank97.psm3_getenv: Invalid value for PSM3_ADDR_FMT ('ipv4') Select address format for NICs and EPID  Using: 0
+[1755061147.958358458] xcnf9:rank65.psm3_getenv: Invalid value for PSM3_ADDR_FMT ('ipv4') Select address format for NICs and EPID  Using: 0
+[1755061147.967581375] xcnf9:rank71.psm3_getenv: Invalid value for PSM3_ADDR_FMT ('ipv4') Select address format for NICs and EPID  Using: 0
+[1755061147.974507652] xcnf9:rank113.psm3_getenv: Invalid value for PSM3_ADDR_FMT ('ipv4') Select address format for NICs and EPID  Using: 0
+[1755061147.975667081] xcnf11:rank199.psm3_getenv: Invalid value for PSM3_ADDR_FMT ('ipv4') Select address format for NICs and EPID  Using: 0
+[1755061147.977350978] xcnf9:rank123.psm3_getenv: Invalid value for PSM3_ADDR_FMT ('ipv4') Select address format for NICs and EPID  Using: 0
+[1755061147.979886320] xcnf9:rank104.psm3_getenv: Invalid value for PSM3_ADDR_FMT ('ipv4') Select address format for NICs and EPID  Using: 0
+[1755061147.977351658] xcnf9:rank124.psm3_getenv: Invalid value for PSM3_ADDR_FMT ('ipv4') Select address format for NICs and EPID  Using: 0
+[1755061147.982492422] xcnf9:rank69.psm3_getenv: Invalid value for PSM3_ADDR_FMT ('ipv4') Select address format for NICs and EPID  Using: 0
+[1755061147.990927819] xcnf9:rank88.psm3_getenv: Invalid value for PSM3_ADDR_FMT ('ipv4') Select address format for NICs and EPID  Using: 0
+[1755061147.992299496] xcnf9:rank94.psm3_getenv: Invalid value for PSM3_ADDR_FMT ('ipv4') Select address format for NICs and EPID  Using: 0
+[1755061147.993525241] xcnf9:rank109.psm3_getenv: Invalid value for PSM3_ADDR_FMT ('ipv4') Select address format for NICs and EPID  Using: 0
+[1755061148.035108085] xcnf9:rank66.psm3_getenv: Invalid value for PSM3_ADDR_FMT ('ipv4') Select address format for NICs and EPID  Using: 0
+[1755061148.037908571] xcnf9:rank92.psm3_getenv: Invalid value for PSM3_ADDR_FMT ('ipv4') Select address format for NICs and EPID  Using: 0
+[1755061148.043294979] xcnf9:rank126.psm3_getenv: Invalid value for PSM3_ADDR_FMT ('ipv4') Select address format for NICs and EPID  Using: 0
+[1755061148.059290540] xcnf9:rank90.psm3_getenv: Invalid value for PSM3_ADDR_FMT ('ipv4') Select address format for NICs and EPID  Using: 0
+[1755061148.060395644] xcnf9:rank103.psm3_getenv: Invalid value for PSM3_ADDR_FMT ('ipv4') Select address format for NICs and EPID  Using: 0
+[1755061148.060293503] xcnf9:rank81.psm3_getenv: Invalid value for PSM3_ADDR_FMT ('ipv4') Select address format for NICs and EPID  Using: 0
+[1755061148.060799549] xcnf9:rank84.psm3_getenv: Invalid value for PSM3_ADDR_FMT ('ipv4') Select address format for NICs and EPID  Using: 0
+[1755061148.060859050] xcnf9:rank115.psm3_getenv: Invalid value for PSM3_ADDR_FMT ('ipv4') Select address format for NICs and EPID  Using: 0
+[1755061148.061843402] xcnf9:rank101.psm3_getenv: Invalid value for PSM3_ADDR_FMT ('ipv4') Select address format for NICs and EPID  Using: 0
+[1755061148.062573781] xcnf9:rank87.psm3_getenv: Invalid value for PSM3_ADDR_FMT ('ipv4') Select address format for NICs and EPID  Using: 0
+[1755061148.062572111] xcnf9:rank112.psm3_getenv: Invalid value for PSM3_ADDR_FMT ('ipv4') Select address format for NICs and EPID  Using: 0
+[1755061148.062824374] xcnf9:rank100.psm3_getenv: Invalid value for PSM3_ADDR_FMT ('ipv4') Select address format for NICs and EPID  Using: 0
+[1755061148.063004957] xcnf9:rank67.psm3_getenv: Invalid value for PSM3_ADDR_FMT ('ipv4') Select address format for NICs and EPID  Using: 0
+[1755061148.063949189] xcnf9:rank70.psm3_getenv: Invalid value for PSM3_ADDR_FMT ('ipv4') Select address format for NICs and EPID  Using: 0
+[1755061148.063554784] xcnf9:rank74.psm3_getenv: Invalid value for PSM3_ADDR_FMT ('ipv4') Select address format for NICs and EPID  Using: 0
+[1755061148.067196140] xcnf9:rank91.psm3_getenv: Invalid value for PSM3_ADDR_FMT ('ipv4') Select address format for NICs and EPID  Using: 0
+[1755061148.068298443] xcnf9:rank77.psm3_getenv: Invalid value for PSM3_ADDR_FMT ('ipv4') Select address format for NICs and EPID  Using: 0
+[1755061148.068895101] xcnf9:rank72.psm3_getenv: Invalid value for PSM3_ADDR_FMT ('ipv4') Select address format for NICs and EPID  Using: 0
+[1755061148.067133521] xcnf8:rank13.psm3_getenv: Invalid value for PSM3_ADDR_FMT ('ipv4') Select address format for NICs and EPID  Using: 0
+[1755061148.071030338] xcnf9:rank68.psm3_getenv: Invalid value for PSM3_ADDR_FMT ('ipv4') Select address format for NICs and EPID  Using: 0
+[1755061148.071032168] xcnf9:rank99.psm3_getenv: Invalid value for PSM3_ADDR_FMT ('ipv4') Select address format for NICs and EPID  Using: 0
+[1755061148.074084267] xcnf11:rank225.psm3_getenv: Invalid value for PSM3_ADDR_FMT ('ipv4') Select address format for NICs and EPID  Using: 0
+[1755061148.072729259] xcnf9:rank120.psm3_getenv: Invalid value for PSM3_ADDR_FMT ('ipv4') Select address format for NICs and EPID  Using: 0
+[1755061148.073214256] xcnf9:rank95.psm3_getenv: Invalid value for PSM3_ADDR_FMT ('ipv4') Select address format for NICs and EPID  Using: 0
+[1755061148.074508442] xcnf9:rank127.psm3_getenv: Invalid value for PSM3_ADDR_FMT ('ipv4') Select address format for NICs and EPID  Using: 0
+[1755061148.075526105] xcnf9:rank93.psm3_getenv: Invalid value for PSM3_ADDR_FMT ('ipv4') Select address format for NICs and EPID  Using: 0
+[1755061148.077927055] xcnf9:rank76.psm3_getenv: Invalid value for PSM3_ADDR_FMT ('ipv4') Select address format for NICs and EPID  Using: 0
+[1755061148.077472019] xcnf9:rank83.psm3_getenv: Invalid value for PSM3_ADDR_FMT ('ipv4') Select address format for NICs and EPID  Using: 0
+[1755061148.077885974] xcnf9:rank102.psm3_getenv: Invalid value for PSM3_ADDR_FMT ('ipv4') Select address format for NICs and EPID  Using: 0
+[1755061148.078190648] xcnf9:rank107.psm3_getenv: Invalid value for PSM3_ADDR_FMT ('ipv4') Select address format for NICs and EPID  Using: 0
+[1755061148.078616904] xcnf9:rank86.psm3_getenv: Invalid value for PSM3_ADDR_FMT ('ipv4') Select address format for NICs and EPID  Using: 0
+[1755061148.078684324] xcnf9:rank82.psm3_getenv: Invalid value for PSM3_ADDR_FMT ('ipv4') Select address format for NICs and EPID  Using: 0
+[1755061148.078709885] xcnf9:rank106.psm3_getenv: Invalid value for PSM3_ADDR_FMT ('ipv4') Select address format for NICs and EPID  Using: 0
+[1755061148.078754895] xcnf9:rank119.psm3_getenv: Invalid value for PSM3_ADDR_FMT ('ipv4') Select address format for NICs and EPID  Using: 0
+[1755061148.079286422] xcnf9:rank80.psm3_getenv: Invalid value for PSM3_ADDR_FMT ('ipv4') Select address format for NICs and EPID  Using: 0
+[1755061148.079266972] xcnf9:rank111.psm3_getenv: Invalid value for PSM3_ADDR_FMT ('ipv4') Select address format for NICs and EPID  Using: 0
+[1755061148.079360613] xcnf9:rank116.psm3_getenv: Invalid value for PSM3_ADDR_FMT ('ipv4') Select address format for NICs and EPID  Using: 0
+[1755061148.079440484] xcnf9:rank89.psm3_getenv: Invalid value for PSM3_ADDR_FMT ('ipv4') Select address format for NICs and EPID  Using: 0
+[1755061148.079508865] xcnf9:rank122.psm3_getenv: Invalid value for PSM3_ADDR_FMT ('ipv4') Select address format for NICs and EPID  Using: 0
+[1755061148.079540205] xcnf9:rank79.psm3_getenv: Invalid value for PSM3_ADDR_FMT ('ipv4') Select address format for NICs and EPID  Using: 0
+[1755061148.079832709] xcnf9:rank75.psm3_getenv: Invalid value for PSM3_ADDR_FMT ('ipv4') Select address format for NICs and EPID  Using: 0
+[1755061148.080032051] xcnf9:rank108.psm3_getenv: Invalid value for PSM3_ADDR_FMT ('ipv4') Select address format for NICs and EPID  Using: 0
+[1755061148.080053802] xcnf9:rank105.psm3_getenv: Invalid value for PSM3_ADDR_FMT ('ipv4') Select address format for NICs and EPID  Using: 0
+[1755061148.080203924] xcnf9:rank118.psm3_getenv: Invalid value for PSM3_ADDR_FMT ('ipv4') Select address format for NICs and EPID  Using: 0
+[1755061148.080237544] xcnf9:rank85.psm3_getenv: Invalid value for PSM3_ADDR_FMT ('ipv4') Select address format for NICs and EPID  Using: 0
+[1755061148.080335365] xcnf9:rank78.psm3_getenv: Invalid value for PSM3_ADDR_FMT ('ipv4') Select address format for NICs and EPID  Using: 0
+[1755061148.080320515] xcnf9:rank125.psm3_getenv: Invalid value for PSM3_ADDR_FMT ('ipv4') Select address format for NICs and EPID  Using: 0
+[1755061148.080366135] xcnf9:rank73.psm3_getenv: Invalid value for PSM3_ADDR_FMT ('ipv4') Select address format for NICs and EPID  Using: 0
+[1755061148.080449087] xcnf9:rank114.psm3_getenv: Invalid value for PSM3_ADDR_FMT ('ipv4') Select address format for NICs and EPID  Using: 0
+[1755061148.080465077] xcnf9:rank117.psm3_getenv: Invalid value for PSM3_ADDR_FMT ('ipv4') Select address format for NICs and EPID  Using: 0
+[1755061148.080495037] xcnf9:rank96.psm3_getenv: Invalid value for PSM3_ADDR_FMT ('ipv4') Select address format for NICs and EPID  Using: 0
+[1755061148.080584878] xcnf9:rank110.psm3_getenv: Invalid value for PSM3_ADDR_FMT ('ipv4') Select address format for NICs and EPID  Using: 0
+[1755061148.080643239] xcnf9:rank64.psm3_getenv: Invalid value for PSM3_ADDR_FMT ('ipv4') Select address format for NICs and EPID  Using: 0
+[1755061148.080647449] xcnf9:rank121.psm3_getenv: Invalid value for PSM3_ADDR_FMT ('ipv4') Select address format for NICs and EPID  Using: 0
+[1755061148.145215640] xcnf11:rank223.psm3_getenv: Invalid value for PSM3_ADDR_FMT ('ipv4') Select address format for NICs and EPID  Using: 0
+[1755061148.217681213] xcnf11:rank220.psm3_getenv: Invalid value for PSM3_ADDR_FMT ('ipv4') Select address format for NICs and EPID  Using: 0
+[1755061148.202535543] xcnf10:rank162.psm3_getenv: Invalid value for PSM3_ADDR_FMT ('ipv4') Select address format for NICs and EPID  Using: 0
+[1755061148.218022433] xcnf11:rank254.psm3_getenv: Invalid value for PSM3_ADDR_FMT ('ipv4') Select address format for NICs and EPID  Using: 0
+[1755061148.202358714] xcnf10:rank170.psm3_getenv: Invalid value for PSM3_ADDR_FMT ('ipv4') Select address format for NICs and EPID  Using: 0
+[1755061148.202760521] xcnf10:rank182.psm3_getenv: Invalid value for PSM3_ADDR_FMT ('ipv4') Select address format for NICs and EPID  Using: 0
+[1755061148.214375349] xcnf8:rank10.psm3_getenv: Invalid value for PSM3_ADDR_FMT ('ipv4') Select address format for NICs and EPID  Using: 0
+[1755061148.228334278] xcnf11:rank248.psm3_getenv: Invalid value for PSM3_ADDR_FMT ('ipv4') Select address format for NICs and EPID  Using: 0
+[1755061148.232694790] xcnf11:rank194.psm3_getenv: Invalid value for PSM3_ADDR_FMT ('ipv4') Select address format for NICs and EPID  Using: 0
+[1755061148.234265971] xcnf11:rank211.psm3_getenv: Invalid value for PSM3_ADDR_FMT ('ipv4') Select address format for NICs and EPID  Using: 0
+[1755061148.233681481] xcnf11:rank217.psm3_getenv: Invalid value for PSM3_ADDR_FMT ('ipv4') Select address format for NICs and EPID  Using: 0
+[1755061148.231570690] xcnf11:rank234.psm3_getenv: Invalid value for PSM3_ADDR_FMT ('ipv4') Select address format for NICs and EPID  Using: 0
+[1755061148.235620772] xcnf11:rank193.psm3_getenv: Invalid value for PSM3_ADDR_FMT ('ipv4') Select address format for NICs and EPID  Using: 0
+[1755061148.238158613] xcnf11:rank212.psm3_getenv: Invalid value for PSM3_ADDR_FMT ('ipv4') Select address format for NICs and EPID  Using: 0
+[1755061148.241180244] xcnf11:rank222.psm3_getenv: Invalid value for PSM3_ADDR_FMT ('ipv4') Select address format for NICs and EPID  Using: 0
+[1755061148.241502675] xcnf11:rank196.psm3_getenv: Invalid value for PSM3_ADDR_FMT ('ipv4') Select address format for NICs and EPID  Using: 0
+[1755061148.241562035] xcnf11:rank216.psm3_getenv: Invalid value for PSM3_ADDR_FMT ('ipv4') Select address format for NICs and EPID  Using: 0
+[1755061148.241723275] xcnf11:rank221.psm3_getenv: Invalid value for PSM3_ADDR_FMT ('ipv4') Select address format for NICs and EPID  Using: 0
+[1755061148.242334355] xcnf11:rank228.psm3_getenv: Invalid value for PSM3_ADDR_FMT ('ipv4') Select address format for NICs and EPID  Using: 0
+[1755061148.242487265] xcnf11:rank253.psm3_getenv: Invalid value for PSM3_ADDR_FMT ('ipv4') Select address format for NICs and EPID  Using: 0
+[1755061148.252155261] xcnf8:rank15.psm3_getenv: Invalid value for PSM3_ADDR_FMT ('ipv4') Select address format for NICs and EPID  Using: 0
+[1755061148.258136961] xcnf8:rank22.psm3_getenv: Invalid value for PSM3_ADDR_FMT ('ipv4') Select address format for NICs and EPID  Using: 0
+[1755061148.258257371] xcnf8:rank20.psm3_getenv: Invalid value for PSM3_ADDR_FMT ('ipv4') Select address format for NICs and EPID  Using: 0
+[1755061148.258136441] xcnf8:rank23.psm3_getenv: Invalid value for PSM3_ADDR_FMT ('ipv4') Select address format for NICs and EPID  Using: 0
+[1755061148.259928527] xcnf8:rank7.psm3_getenv: Invalid value for PSM3_ADDR_FMT ('ipv4') Select address format for NICs and EPID  Using: 0
+[1755061148.260402758] xcnf8:rank1.psm3_getenv: Invalid value for PSM3_ADDR_FMT ('ipv4') Select address format for NICs and EPID  Using: 0
+[1755061148.263618168] xcnf8:rank12.psm3_getenv: Invalid value for PSM3_ADDR_FMT ('ipv4') Select address format for NICs and EPID  Using: 0
+[1755061148.263551568] xcnf8:rank50.psm3_getenv: Invalid value for PSM3_ADDR_FMT ('ipv4') Select address format for NICs and EPID  Using: 0
+[1755061148.264456381] xcnf8:rank4.psm3_getenv: Invalid value for PSM3_ADDR_FMT ('ipv4') Select address format for NICs and EPID  Using: 0
+[1755061148.265063493] xcnf8:rank11.psm3_getenv: Invalid value for PSM3_ADDR_FMT ('ipv4') Select address format for NICs and EPID  Using: 0
+[1755061148.265364414] xcnf8:rank45.psm3_getenv: Invalid value for PSM3_ADDR_FMT ('ipv4') Select address format for NICs and EPID  Using: 0
+[1755061148.265419474] xcnf8:rank5.psm3_getenv: Invalid value for PSM3_ADDR_FMT ('ipv4') Select address format for NICs and EPID  Using: 0
+[1755061148.265655945] xcnf8:rank40.psm3_getenv: Invalid value for PSM3_ADDR_FMT ('ipv4') Select address format for NICs and EPID  Using: 0
+[1755061148.266758239] xcnf8:rank2.psm3_getenv: Invalid value for PSM3_ADDR_FMT ('ipv4') Select address format for NICs and EPID  Using: 0
+[1755061148.274335050] xcnf11:rank219.psm3_getenv: Invalid value for PSM3_ADDR_FMT ('ipv4') Select address format for NICs and EPID  Using: 0
+[1755061148.270623671] xcnf8:rank42.psm3_getenv: Invalid value for PSM3_ADDR_FMT ('ipv4') Select address format for NICs and EPID  Using: 0
+[1755061148.271291564] xcnf8:rank17.psm3_getenv: Invalid value for PSM3_ADDR_FMT ('ipv4') Select address format for NICs and EPID  Using: 0
+[1755061148.235123813] xcnf10:rank168.psm3_getenv: Invalid value for PSM3_ADDR_FMT ('ipv4') Select address format for NICs and EPID  Using: 0
+[1755061148.259652115] xcnf10:rank183.psm3_getenv: Invalid value for PSM3_ADDR_FMT ('ipv4') Select address format for NICs and EPID  Using: 0
+[1755061148.272195596] xcnf8:rank43.psm3_getenv: Invalid value for PSM3_ADDR_FMT ('ipv4') Select address format for NICs and EPID  Using: 0
+[1755061148.269896493] xcnf10:rank159.psm3_getenv: Invalid value for PSM3_ADDR_FMT ('ipv4') Select address format for NICs and EPID  Using: 0
+[1755061148.275241686] xcnf8:rank37.psm3_getenv: Invalid value for PSM3_ADDR_FMT ('ipv4') Select address format for NICs and EPID  Using: 0
+[1755061148.275130806] xcnf8:rank49.psm3_getenv: Invalid value for PSM3_ADDR_FMT ('ipv4') Select address format for NICs and EPID  Using: 0
+[1755061148.284341984] xcnf11:rank249.psm3_getenv: Invalid value for PSM3_ADDR_FMT ('ipv4') Select address format for NICs and EPID  Using: 0
+[1755061148.287745746] xcnf11:rank209.psm3_getenv: Invalid value for PSM3_ADDR_FMT ('ipv4') Select address format for NICs and EPID  Using: 0
+[1755061148.283318663] xcnf8:rank3.psm3_getenv: Invalid value for PSM3_ADDR_FMT ('ipv4') Select address format for NICs and EPID  Using: 0
+[1755061148.284135995] xcnf8:rank21.psm3_getenv: Invalid value for PSM3_ADDR_FMT ('ipv4') Select address format for NICs and EPID  Using: 0
+[1755061148.281454941] xcnf10:rank137.psm3_getenv: Invalid value for PSM3_ADDR_FMT ('ipv4') Select address format for NICs and EPID  Using: 0
+[1755061148.294369209] xcnf11:rank226.psm3_getenv: Invalid value for PSM3_ADDR_FMT ('ipv4') Select address format for NICs and EPID  Using: 0
+[1755061148.283379464] xcnf10:rank133.psm3_getenv: Invalid value for PSM3_ADDR_FMT ('ipv4') Select address format for NICs and EPID  Using: 0
+[1755061148.283468373] xcnf10:rank134.psm3_getenv: Invalid value for PSM3_ADDR_FMT ('ipv4') Select address format for NICs and EPID  Using: 0
+[1755061148.289567193] xcnf8:rank34.psm3_getenv: Invalid value for PSM3_ADDR_FMT ('ipv4') Select address format for NICs and EPID  Using: 0
+[1755061148.291619619] xcnf8:rank18.psm3_getenv: Invalid value for PSM3_ADDR_FMT ('ipv4') Select address format for NICs and EPID  Using: 0
+[1755061148.286127559] xcnf10:rank128.psm3_getenv: Invalid value for PSM3_ADDR_FMT ('ipv4') Select address format for NICs and EPID  Using: 0
+[1755061148.283917269] xcnf10:rank129.psm3_getenv: Invalid value for PSM3_ADDR_FMT ('ipv4') Select address format for NICs and EPID  Using: 0
+[1755061148.285393166] xcnf10:rank130.psm3_getenv: Invalid value for PSM3_ADDR_FMT ('ipv4') Select address format for NICs and EPID  Using: 0
+[1755061148.286394427] xcnf10:rank174.psm3_getenv: Invalid value for PSM3_ADDR_FMT ('ipv4') Select address format for NICs and EPID  Using: 0
+[1755061148.283335254] xcnf10:rank176.psm3_getenv: Invalid value for PSM3_ADDR_FMT ('ipv4') Select address format for NICs and EPID  Using: 0
+[1755061148.301103772] xcnf11:rank255.psm3_getenv: Invalid value for PSM3_ADDR_FMT ('ipv4') Select address format for NICs and EPID  Using: 0
+[1755061148.303565088] xcnf8:rank9.psm3_getenv: Invalid value for PSM3_ADDR_FMT ('ipv4') Select address format for NICs and EPID  Using: 0
+[1755061148.308158853] xcnf8:rank46.psm3_getenv: Invalid value for PSM3_ADDR_FMT ('ipv4') Select address format for NICs and EPID  Using: 0
+[1755061148.305816824] xcnf10:rank146.psm3_getenv: Invalid value for PSM3_ADDR_FMT ('ipv4') Select address format for NICs and EPID  Using: 0
+[1755061148.306620917] xcnf10:rank180.psm3_getenv: Invalid value for PSM3_ADDR_FMT ('ipv4') Select address format for NICs and EPID  Using: 0
+[1755061148.306574647] xcnf10:rank157.psm3_getenv: Invalid value for PSM3_ADDR_FMT ('ipv4') Select address format for NICs and EPID  Using: 0
+[1755061148.307269031] xcnf10:rank138.psm3_getenv: Invalid value for PSM3_ADDR_FMT ('ipv4') Select address format for NICs and EPID  Using: 0
+[1755061148.308338651] xcnf10:rank135.psm3_getenv: Invalid value for PSM3_ADDR_FMT ('ipv4') Select address format for NICs and EPID  Using: 0
+[1755061148.320065231] xcnf11:rank218.psm3_getenv: Invalid value for PSM3_ADDR_FMT ('ipv4') Select address format for NICs and EPID  Using: 0
+[1755061148.320120161] xcnf11:rank244.psm3_getenv: Invalid value for PSM3_ADDR_FMT ('ipv4') Select address format for NICs and EPID  Using: 0
+[1755061148.309254293] xcnf10:rank155.psm3_getenv: Invalid value for PSM3_ADDR_FMT ('ipv4') Select address format for NICs and EPID  Using: 0
+[1755061148.321218571] xcnf11:rank252.psm3_getenv: Invalid value for PSM3_ADDR_FMT ('ipv4') Select address format for NICs and EPID  Using: 0
+[1755061148.321590112] xcnf11:rank231.psm3_getenv: Invalid value for PSM3_ADDR_FMT ('ipv4') Select address format for NICs and EPID  Using: 0
+[1755061148.309157484] xcnf10:rank184.psm3_getenv: Invalid value for PSM3_ADDR_FMT ('ipv4') Select address format for NICs and EPID  Using: 0
+[1755061148.310766890] xcnf10:rank158.psm3_getenv: Invalid value for PSM3_ADDR_FMT ('ipv4') Select address format for NICs and EPID  Using: 0
+[1755061148.321510632] xcnf11:rank205.psm3_getenv: Invalid value for PSM3_ADDR_FMT ('ipv4') Select address format for NICs and EPID  Using: 0
+[1755061148.322701512] xcnf11:rank243.psm3_getenv: Invalid value for PSM3_ADDR_FMT ('ipv4') Select address format for NICs and EPID  Using: 0
+[1755061148.323167562] xcnf11:rank250.psm3_getenv: Invalid value for PSM3_ADDR_FMT ('ipv4') Select address format for NICs and EPID  Using: 0
+[1755061148.323244762] xcnf11:rank241.psm3_getenv: Invalid value for PSM3_ADDR_FMT ('ipv4') Select address format for NICs and EPID  Using: 0
+[1755061148.323560282] xcnf11:rank202.psm3_getenv: Invalid value for PSM3_ADDR_FMT ('ipv4') Select address format for NICs and EPID  Using: 0
+[1755061148.311186536] xcnf10:rank150.psm3_getenv: Invalid value for PSM3_ADDR_FMT ('ipv4') Select address format for NICs and EPID  Using: 0
+[1755061148.324105493] xcnf11:rank213.psm3_getenv: Invalid value for PSM3_ADDR_FMT ('ipv4') Select address format for NICs and EPID  Using: 0
+[1755061148.318916208] xcnf8:rank16.psm3_getenv: Invalid value for PSM3_ADDR_FMT ('ipv4') Select address format for NICs and EPID  Using: 0
+[1755061148.324534093] xcnf11:rank215.psm3_getenv: Invalid value for PSM3_ADDR_FMT ('ipv4') Select address format for NICs and EPID  Using: 0
+[1755061148.319502440] xcnf8:rank6.psm3_getenv: Invalid value for PSM3_ADDR_FMT ('ipv4') Select address format for NICs and EPID  Using: 0
+[1755061148.314398098] xcnf10:rank136.psm3_getenv: Invalid value for PSM3_ADDR_FMT ('ipv4') Select address format for NICs and EPID  Using: 0
+[1755061148.314525516] xcnf10:rank160.psm3_getenv: Invalid value for PSM3_ADDR_FMT ('ipv4') Select address format for NICs and EPID  Using: 0
+[1755061148.326028283] xcnf11:rank210.psm3_getenv: Invalid value for PSM3_ADDR_FMT ('ipv4') Select address format for NICs and EPID  Using: 0
+[1755061148.326185324] xcnf11:rank251.psm3_getenv: Invalid value for PSM3_ADDR_FMT ('ipv4') Select address format for NICs and EPID  Using: 0
+[1755061148.326224974] xcnf11:rank208.psm3_getenv: Invalid value for PSM3_ADDR_FMT ('ipv4') Select address format for NICs and EPID  Using: 0
+[1755061148.326222684] xcnf11:rank240.psm3_getenv: Invalid value for PSM3_ADDR_FMT ('ipv4') Select address format for NICs and EPID  Using: 0
+[1755061148.326310774] xcnf11:rank246.psm3_getenv: Invalid value for PSM3_ADDR_FMT ('ipv4') Select address format for NICs and EPID  Using: 0
+[1755061148.326411674] xcnf11:rank233.psm3_getenv: Invalid value for PSM3_ADDR_FMT ('ipv4') Select address format for NICs and EPID  Using: 0
+[1755061148.327086874] xcnf11:rank247.psm3_getenv: Invalid value for PSM3_ADDR_FMT ('ipv4') Select address format for NICs and EPID  Using: 0
+[1755061148.327873175] xcnf11:rank245.psm3_getenv: Invalid value for PSM3_ADDR_FMT ('ipv4') Select address format for NICs and EPID  Using: 0
+[1755061148.328271215] xcnf11:rank200.psm3_getenv: Invalid value for PSM3_ADDR_FMT ('ipv4') Select address format for NICs and EPID  Using: 0
+[1755061148.328406545] xcnf11:rank195.psm3_getenv: Invalid value for PSM3_ADDR_FMT ('ipv4') Select address format for NICs and EPID  Using: 0
+[1755061148.328410265] xcnf11:rank230.psm3_getenv: Invalid value for PSM3_ADDR_FMT ('ipv4') Select address format for NICs and EPID  Using: 0
+[1755061148.328440065] xcnf11:rank237.psm3_getenv: Invalid value for PSM3_ADDR_FMT ('ipv4') Select address format for NICs and EPID  Using: 0
+[1755061148.328573555] xcnf11:rank201.psm3_getenv: Invalid value for PSM3_ADDR_FMT ('ipv4') Select address format for NICs and EPID  Using: 0
+[1755061148.329558095] xcnf11:rank227.psm3_getenv: Invalid value for PSM3_ADDR_FMT ('ipv4') Select address format for NICs and EPID  Using: 0
+[1755061148.329657645] xcnf11:rank236.psm3_getenv: Invalid value for PSM3_ADDR_FMT ('ipv4') Select address format for NICs and EPID  Using: 0
+[1755061148.329829455] xcnf11:rank206.psm3_getenv: Invalid value for PSM3_ADDR_FMT ('ipv4') Select address format for NICs and EPID  Using: 0
+[1755061148.321437506] xcnf8:rank24.psm3_getenv: Invalid value for PSM3_ADDR_FMT ('ipv4') Select address format for NICs and EPID  Using: 0
+[1755061148.329834515] xcnf11:rank238.psm3_getenv: Invalid value for PSM3_ADDR_FMT ('ipv4') Select address format for NICs and EPID  Using: 0
+[1755061148.322744331] xcnf8:rank29.psm3_getenv: Invalid value for PSM3_ADDR_FMT ('ipv4') Select address format for NICs and EPID  Using: 0
+[1755061148.329856875] xcnf11:rank242.psm3_getenv: Invalid value for PSM3_ADDR_FMT ('ipv4') Select address format for NICs and EPID  Using: 0
+[1755061148.321733957] xcnf8:rank36.psm3_getenv: Invalid value for PSM3_ADDR_FMT ('ipv4') Select address format for NICs and EPID  Using: 0
+[1755061148.329923055] xcnf11:rank198.psm3_getenv: Invalid value for PSM3_ADDR_FMT ('ipv4') Select address format for NICs and EPID  Using: 0
+[1755061148.321176966] xcnf8:rank39.psm3_getenv: Invalid value for PSM3_ADDR_FMT ('ipv4') Select address format for NICs and EPID  Using: 0
+[1755061148.329858995] xcnf11:rank214.psm3_getenv: Invalid value for PSM3_ADDR_FMT ('ipv4') Select address format for NICs and EPID  Using: 0
+[1755061148.323678663] xcnf8:rank41.psm3_getenv: Invalid value for PSM3_ADDR_FMT ('ipv4') Select address format for NICs and EPID  Using: 0
+[1755061148.330008595] xcnf11:rank192.psm3_getenv: Invalid value for PSM3_ADDR_FMT ('ipv4') Select address format for NICs and EPID  Using: 0
+[1755061148.321395606] xcnf8:rank44.psm3_getenv: Invalid value for PSM3_ADDR_FMT ('ipv4') Select address format for NICs and EPID  Using: 0
+[1755061148.330085096] xcnf11:rank203.psm3_getenv: Invalid value for PSM3_ADDR_FMT ('ipv4') Select address format for NICs and EPID  Using: 0
+[1755061148.322683230] xcnf8:rank47.psm3_getenv: Invalid value for PSM3_ADDR_FMT ('ipv4') Select address format for NICs and EPID  Using: 0
+[1755061148.330103625] xcnf11:rank232.psm3_getenv: Invalid value for PSM3_ADDR_FMT ('ipv4') Select address format for NICs and EPID  Using: 0
+[1755061148.330087456] xcnf11:rank235.psm3_getenv: Invalid value for PSM3_ADDR_FMT ('ipv4') Select address format for NICs and EPID  Using: 0
+[1755061148.322335529] xcnf8:rank52.psm3_getenv: Invalid value for PSM3_ADDR_FMT ('ipv4') Select address format for NICs and EPID  Using: 0
+[1755061148.330090496] xcnf11:rank239.psm3_getenv: Invalid value for PSM3_ADDR_FMT ('ipv4') Select address format for NICs and EPID  Using: 0
+[1755061148.322443459] xcnf8:rank53.psm3_getenv: Invalid value for PSM3_ADDR_FMT ('ipv4') Select address format for NICs and EPID  Using: 0
+[1755061148.330132105] xcnf11:rank207.psm3_getenv: Invalid value for PSM3_ADDR_FMT ('ipv4') Select address format for NICs and EPID  Using: 0
+[1755061148.322715740] xcnf8:rank55.psm3_getenv: Invalid value for PSM3_ADDR_FMT ('ipv4') Select address format for NICs and EPID  Using: 0
+[1755061148.330238785] xcnf11:rank197.psm3_getenv: Invalid value for PSM3_ADDR_FMT ('ipv4') Select address format for NICs and EPID  Using: 0
+[1755061148.324814207] xcnf8:rank25.psm3_getenv: Invalid value for PSM3_ADDR_FMT ('ipv4') Select address format for NICs and EPID  Using: 0
+[1755061148.330244716] xcnf11:rank204.psm3_getenv: Invalid value for PSM3_ADDR_FMT ('ipv4') Select address format for NICs and EPID  Using: 0
+[1755061148.325431649] xcnf8:rank58.psm3_getenv: Invalid value for PSM3_ADDR_FMT ('ipv4') Select address format for NICs and EPID  Using: 0
+[1755061148.330372796] xcnf11:rank229.psm3_getenv: Invalid value for PSM3_ADDR_FMT ('ipv4') Select address format for NICs and EPID  Using: 0
+[1755061148.326214682] xcnf8:rank33.psm3_getenv: Invalid value for PSM3_ADDR_FMT ('ipv4') Select address format for NICs and EPID  Using: 0
+[1755061148.330415396] xcnf11:rank224.psm3_getenv: Invalid value for PSM3_ADDR_FMT ('ipv4') Select address format for NICs and EPID  Using: 0
+[1755061148.327313665] xcnf8:rank26.psm3_getenv: Invalid value for PSM3_ADDR_FMT ('ipv4') Select address format for NICs and EPID  Using: 0
+[1755061148.326949684] xcnf8:rank56.psm3_getenv: Invalid value for PSM3_ADDR_FMT ('ipv4') Select address format for NICs and EPID  Using: 0
+[1755061148.327588956] xcnf8:rank62.psm3_getenv: Invalid value for PSM3_ADDR_FMT ('ipv4') Select address format for NICs and EPID  Using: 0
+[1755061148.327871837] xcnf8:rank0.psm3_getenv: Invalid value for PSM3_ADDR_FMT ('ipv4') Select address format for NICs and EPID  Using: 0
+[1755061148.327991137] xcnf8:rank57.psm3_getenv: Invalid value for PSM3_ADDR_FMT ('ipv4') Select address format for NICs and EPID  Using: 0
+[1755061148.328151058] xcnf8:rank61.psm3_getenv: Invalid value for PSM3_ADDR_FMT ('ipv4') Select address format for NICs and EPID  Using: 0
+[1755061148.330158155] xcnf8:rank27.psm3_getenv: Invalid value for PSM3_ADDR_FMT ('ipv4') Select address format for NICs and EPID  Using: 0
+[1755061148.328669470] xcnf8:rank28.psm3_getenv: Invalid value for PSM3_ADDR_FMT ('ipv4') Select address format for NICs and EPID  Using: 0
+[1755061148.330070954] xcnf8:rank30.psm3_getenv: Invalid value for PSM3_ADDR_FMT ('ipv4') Select address format for NICs and EPID  Using: 0
+[1755061148.328120618] xcnf8:rank38.psm3_getenv: Invalid value for PSM3_ADDR_FMT ('ipv4') Select address format for NICs and EPID  Using: 0
+[1755061148.328512559] xcnf8:rank48.psm3_getenv: Invalid value for PSM3_ADDR_FMT ('ipv4') Select address format for NICs and EPID  Using: 0
+[1755061148.329398302] xcnf8:rank51.psm3_getenv: Invalid value for PSM3_ADDR_FMT ('ipv4') Select address format for NICs and EPID  Using: 0
+[1755061148.330042414] xcnf8:rank59.psm3_getenv: Invalid value for PSM3_ADDR_FMT ('ipv4') Select address format for NICs and EPID  Using: 0
+[1755061148.328719030] xcnf8:rank60.psm3_getenv: Invalid value for PSM3_ADDR_FMT ('ipv4') Select address format for NICs and EPID  Using: 0
+[1755061148.330227205] xcnf8:rank63.psm3_getenv: Invalid value for PSM3_ADDR_FMT ('ipv4') Select address format for NICs and EPID  Using: 0
+[1755061148.330705136] xcnf8:rank19.psm3_getenv: Invalid value for PSM3_ADDR_FMT ('ipv4') Select address format for NICs and EPID  Using: 0
+[1755061148.330999227] xcnf8:rank31.psm3_getenv: Invalid value for PSM3_ADDR_FMT ('ipv4') Select address format for NICs and EPID  Using: 0
+[1755061148.331009987] xcnf8:rank32.psm3_getenv: Invalid value for PSM3_ADDR_FMT ('ipv4') Select address format for NICs and EPID  Using: 0
+[1755061148.331489859] xcnf8:rank35.psm3_getenv: Invalid value for PSM3_ADDR_FMT ('ipv4') Select address format for NICs and EPID  Using: 0
+[1755061148.330756466] xcnf8:rank54.psm3_getenv: Invalid value for PSM3_ADDR_FMT ('ipv4') Select address format for NICs and EPID  Using: 0
+[1755061148.331730180] xcnf8:rank14.psm3_getenv: Invalid value for PSM3_ADDR_FMT ('ipv4') Select address format for NICs and EPID  Using: 0
+[1755061148.324993543] xcnf10:rank132.psm3_getenv: Invalid value for PSM3_ADDR_FMT ('ipv4') Select address format for NICs and EPID  Using: 0
+[1755061148.332199589] xcnf10:rank161.psm3_getenv: Invalid value for PSM3_ADDR_FMT ('ipv4') Select address format for NICs and EPID  Using: 0
+[1755061148.332671355] xcnf10:rank145.psm3_getenv: Invalid value for PSM3_ADDR_FMT ('ipv4') Select address format for NICs and EPID  Using: 0
+[1755061148.333847944] xcnf10:rank144.psm3_getenv: Invalid value for PSM3_ADDR_FMT ('ipv4') Select address format for NICs and EPID  Using: 0
+[1755061148.334688727] xcnf10:rank147.psm3_getenv: Invalid value for PSM3_ADDR_FMT ('ipv4') Select address format for NICs and EPID  Using: 0
+[1755061148.335288622] xcnf10:rank165.psm3_getenv: Invalid value for PSM3_ADDR_FMT ('ipv4') Select address format for NICs and EPID  Using: 0
+[1755061148.335836957] xcnf10:rank140.psm3_getenv: Invalid value for PSM3_ADDR_FMT ('ipv4') Select address format for NICs and EPID  Using: 0
+[1755061148.337246244] xcnf10:rank131.psm3_getenv: Invalid value for PSM3_ADDR_FMT ('ipv4') Select address format for NICs and EPID  Using: 0
+[1755061148.337046326] xcnf10:rank148.psm3_getenv: Invalid value for PSM3_ADDR_FMT ('ipv4') Select address format for NICs and EPID  Using: 0
+[1755061148.337046996] xcnf10:rank151.psm3_getenv: Invalid value for PSM3_ADDR_FMT ('ipv4') Select address format for NICs and EPID  Using: 0
+[1755061148.337594621] xcnf10:rank164.psm3_getenv: Invalid value for PSM3_ADDR_FMT ('ipv4') Select address format for NICs and EPID  Using: 0
+[1755061148.336099644] xcnf10:rank187.psm3_getenv: Invalid value for PSM3_ADDR_FMT ('ipv4') Select address format for NICs and EPID  Using: 0
+[1755061148.337920008] xcnf10:rank181.psm3_getenv: Invalid value for PSM3_ADDR_FMT ('ipv4') Select address format for NICs and EPID  Using: 0
+[1755061148.337976228] xcnf10:rank149.psm3_getenv: Invalid value for PSM3_ADDR_FMT ('ipv4') Select address format for NICs and EPID  Using: 0
+[1755061148.338028557] xcnf10:rank179.psm3_getenv: Invalid value for PSM3_ADDR_FMT ('ipv4') Select address format for NICs and EPID  Using: 0
+[1755061148.338204116] xcnf10:rank152.psm3_getenv: Invalid value for PSM3_ADDR_FMT ('ipv4') Select address format for NICs and EPID  Using: 0
+[1755061148.338177576] xcnf10:rank153.psm3_getenv: Invalid value for PSM3_ADDR_FMT ('ipv4') Select address format for NICs and EPID  Using: 0
+[1755061148.338176416] xcnf10:rank156.psm3_getenv: Invalid value for PSM3_ADDR_FMT ('ipv4') Select address format for NICs and EPID  Using: 0
+[1755061148.338237316] xcnf10:rank177.psm3_getenv: Invalid value for PSM3_ADDR_FMT ('ipv4') Select address format for NICs and EPID  Using: 0
+[1755061148.338441684] xcnf10:rank188.psm3_getenv: Invalid value for PSM3_ADDR_FMT ('ipv4') Select address format for NICs and EPID  Using: 0
+[1755061148.338996559] xcnf10:rank169.psm3_getenv: Invalid value for PSM3_ADDR_FMT ('ipv4') Select address format for NICs and EPID  Using: 0
+[1755061148.339737752] xcnf10:rank163.psm3_getenv: Invalid value for PSM3_ADDR_FMT ('ipv4') Select address format for NICs and EPID  Using: 0
+[1755061148.339953500] xcnf10:rank166.psm3_getenv: Invalid value for PSM3_ADDR_FMT ('ipv4') Select address format for NICs and EPID  Using: 0
+[1755061148.339288456] xcnf10:rank191.psm3_getenv: Invalid value for PSM3_ADDR_FMT ('ipv4') Select address format for NICs and EPID  Using: 0
+[1755061148.340104639] xcnf10:rank178.psm3_getenv: Invalid value for PSM3_ADDR_FMT ('ipv4') Select address format for NICs and EPID  Using: 0
+[1755061148.342250150] xcnf10:rank154.psm3_getenv: Invalid value for PSM3_ADDR_FMT ('ipv4') Select address format for NICs and EPID  Using: 0
+[1755061148.340506315] xcnf10:rank167.psm3_getenv: Invalid value for PSM3_ADDR_FMT ('ipv4') Select address format for NICs and EPID  Using: 0
+[1755061148.342615746] xcnf10:rank172.psm3_getenv: Invalid value for PSM3_ADDR_FMT ('ipv4') Select address format for NICs and EPID  Using: 0
+[1755061148.341430947] xcnf10:rank185.psm3_getenv: Invalid value for PSM3_ADDR_FMT ('ipv4') Select address format for NICs and EPID  Using: 0
+[1755061148.341947623] xcnf10:rank186.psm3_getenv: Invalid value for PSM3_ADDR_FMT ('ipv4') Select address format for NICs and EPID  Using: 0
+[1755061148.342058102] xcnf10:rank190.psm3_getenv: Invalid value for PSM3_ADDR_FMT ('ipv4') Select address format for NICs and EPID  Using: 0
+[1755061148.343013873] xcnf10:rank141.psm3_getenv: Invalid value for PSM3_ADDR_FMT ('ipv4') Select address format for NICs and EPID  Using: 0
+[1755061148.343012833] xcnf10:rank173.psm3_getenv: Invalid value for PSM3_ADDR_FMT ('ipv4') Select address format for NICs and EPID  Using: 0
+[1755061148.343118632] xcnf10:rank171.psm3_getenv: Invalid value for PSM3_ADDR_FMT ('ipv4') Select address format for NICs and EPID  Using: 0
+[1755061148.343436379] xcnf10:rank175.psm3_getenv: Invalid value for PSM3_ADDR_FMT ('ipv4') Select address format for NICs and EPID  Using: 0
+[1755061148.343436329] xcnf10:rank143.psm3_getenv: Invalid value for PSM3_ADDR_FMT ('ipv4') Select address format for NICs and EPID  Using: 0
+[1755061148.343747316] xcnf10:rank189.psm3_getenv: Invalid value for PSM3_ADDR_FMT ('ipv4') Select address format for NICs and EPID  Using: 0
+[1755061148.343925815] xcnf10:rank142.psm3_getenv: Invalid value for PSM3_ADDR_FMT ('ipv4') Select address format for NICs and EPID  Using: 0
+[1755061148.344079573] xcnf10:rank139.psm3_getenv: Invalid value for PSM3_ADDR_FMT ('ipv4') Select address format for NICs and EPID  Using: 0
+Column=000000128 Fraction= 0.2% Gflops=2.990e+03
+Column=000000256 Fraction= 0.3% Gflops=2.490e+03
+Column=000000384 Fraction= 0.5% Gflops=2.670e+03
+Column=000000512 Fraction= 0.6% Gflops=2.763e+03
+Column=000000640 Fraction= 0.8% Gflops=2.832e+03
+Column=000000768 Fraction= 1.0% Gflops=2.874e+03
+Column=000000896 Fraction= 1.1% Gflops=2.918e+03
+Column=000001024 Fraction= 1.3% Gflops=2.930e+03
+Column=000001152 Fraction= 1.4% Gflops=2.886e+03
+Column=000001280 Fraction= 1.6% Gflops=2.858e+03
+Column=000001408 Fraction= 1.8% Gflops=2.875e+03
+Column=000001536 Fraction= 1.9% Gflops=2.907e+03
+Column=000001664 Fraction= 2.1% Gflops=2.949e+03
+Column=000001792 Fraction= 2.2% Gflops=2.987e+03
+Column=000001920 Fraction= 2.4% Gflops=3.017e+03
+Column=000002048 Fraction= 2.6% Gflops=3.021e+03
+Column=000002176 Fraction= 2.7% Gflops=3.039e+03
+Column=000002304 Fraction= 2.9% Gflops=2.924e+03
+Column=000002432 Fraction= 3.0% Gflops=2.936e+03
+Column=000002560 Fraction= 3.2% Gflops=2.953e+03
+Column=000002688 Fraction= 3.4% Gflops=2.956e+03
+Column=000002816 Fraction= 3.5% Gflops=2.963e+03
+Column=000002944 Fraction= 3.7% Gflops=2.971e+03
+Column=000003072 Fraction= 3.8% Gflops=2.933e+03
+Column=000003200 Fraction= 4.0% Gflops=2.915e+03
+Column=000003328 Fraction= 4.2% Gflops=2.902e+03
+Column=000003456 Fraction= 4.3% Gflops=2.900e+03
+Column=000003584 Fraction= 4.5% Gflops=2.904e+03
+Column=000003712 Fraction= 4.6% Gflops=2.925e+03
+Column=000003840 Fraction= 4.8% Gflops=2.943e+03
+Column=000003968 Fraction= 5.0% Gflops=2.961e+03
+Column=000004096 Fraction= 5.1% Gflops=2.978e+03
+Column=000004224 Fraction= 5.3% Gflops=2.984e+03
+Column=000004352 Fraction= 5.4% Gflops=2.919e+03
+Column=000004480 Fraction= 5.6% Gflops=2.925e+03
+Column=000004608 Fraction= 5.8% Gflops=2.926e+03
+Column=000004736 Fraction= 5.9% Gflops=2.930e+03
+Column=000004864 Fraction= 6.1% Gflops=2.938e+03
+Column=000004992 Fraction= 6.2% Gflops=2.940e+03
+Column=000005120 Fraction= 6.4% Gflops=2.941e+03
+Column=000005248 Fraction= 6.6% Gflops=2.939e+03
+Column=000005376 Fraction= 6.7% Gflops=2.934e+03
+Column=000005504 Fraction= 6.9% Gflops=2.936e+03
+Column=000005632 Fraction= 7.0% Gflops=2.945e+03
+Column=000005760 Fraction= 7.2% Gflops=2.942e+03
+Column=000005888 Fraction= 7.4% Gflops=2.957e+03
+Column=000006016 Fraction= 7.5% Gflops=2.966e+03
+Column=000006144 Fraction= 7.7% Gflops=2.979e+03
+Column=000006272 Fraction= 7.8% Gflops=2.985e+03
+Column=000006400 Fraction= 8.0% Gflops=2.949e+03
+Column=000006528 Fraction= 8.2% Gflops=2.957e+03
+Column=000006656 Fraction= 8.3% Gflops=2.960e+03
+Column=000006784 Fraction= 8.5% Gflops=2.964e+03
+Column=000006912 Fraction= 8.6% Gflops=2.968e+03
+Column=000007040 Fraction= 8.8% Gflops=2.972e+03
+Column=000007168 Fraction= 9.0% Gflops=2.972e+03
+Column=000007296 Fraction= 9.1% Gflops=2.970e+03
+Column=000007424 Fraction= 9.3% Gflops=2.970e+03
+Column=000007552 Fraction= 9.4% Gflops=2.968e+03
+Column=000007680 Fraction= 9.6% Gflops=2.969e+03
+Column=000007808 Fraction= 9.8% Gflops=2.971e+03
+Column=000007936 Fraction= 9.9% Gflops=2.978e+03
+Column=000008064 Fraction=10.1% Gflops=2.980e+03
+Column=000008192 Fraction=10.2% Gflops=2.987e+03
+Column=000008320 Fraction=10.4% Gflops=2.993e+03
+Column=000008448 Fraction=10.6% Gflops=2.969e+03
+Column=000008576 Fraction=10.7% Gflops=2.970e+03
+Column=000008704 Fraction=10.9% Gflops=2.971e+03
+Column=000008832 Fraction=11.0% Gflops=2.972e+03
+Column=000008960 Fraction=11.2% Gflops=2.974e+03
+Column=000009088 Fraction=11.4% Gflops=2.979e+03
+Column=000009216 Fraction=11.5% Gflops=2.977e+03
+Column=000009344 Fraction=11.7% Gflops=2.975e+03
+Column=000009472 Fraction=11.8% Gflops=2.974e+03
+Column=000009600 Fraction=12.0% Gflops=2.981e+03
+Column=000009728 Fraction=12.2% Gflops=2.979e+03
+Column=000009856 Fraction=12.3% Gflops=2.983e+03
+Column=000009984 Fraction=12.5% Gflops=2.985e+03
+Column=000010112 Fraction=12.6% Gflops=2.983e+03
+Column=000010240 Fraction=12.8% Gflops=2.985e+03
+Column=000010368 Fraction=13.0% Gflops=2.986e+03
+Column=000010496 Fraction=13.1% Gflops=2.963e+03
+Column=000010624 Fraction=13.3% Gflops=2.964e+03
+Column=000010752 Fraction=13.4% Gflops=2.965e+03
+Column=000010880 Fraction=13.6% Gflops=2.965e+03
+Column=000011008 Fraction=13.8% Gflops=2.966e+03
+Column=000011136 Fraction=13.9% Gflops=2.966e+03
+Column=000011264 Fraction=14.1% Gflops=2.966e+03
+Column=000011392 Fraction=14.2% Gflops=2.962e+03
+Column=000011520 Fraction=14.4% Gflops=2.959e+03
+Column=000011648 Fraction=14.6% Gflops=2.957e+03
+Column=000011776 Fraction=14.7% Gflops=2.956e+03
+Column=000011904 Fraction=14.9% Gflops=2.960e+03
+Column=000012032 Fraction=15.0% Gflops=2.965e+03
+Column=000012160 Fraction=15.2% Gflops=2.970e+03
+Column=000012288 Fraction=15.4% Gflops=2.974e+03
+Column=000012416 Fraction=15.5% Gflops=2.976e+03
+Column=000012544 Fraction=15.7% Gflops=2.958e+03
+Column=000012672 Fraction=15.8% Gflops=2.961e+03
+Column=000012800 Fraction=16.0% Gflops=2.962e+03
+Column=000012928 Fraction=16.2% Gflops=2.963e+03
+Column=000013056 Fraction=16.3% Gflops=2.965e+03
+Column=000013184 Fraction=16.5% Gflops=2.966e+03
+Column=000013312 Fraction=16.6% Gflops=2.965e+03
+Column=000013440 Fraction=16.8% Gflops=2.962e+03
+Column=000013568 Fraction=17.0% Gflops=2.956e+03
+Column=000013696 Fraction=17.1% Gflops=2.952e+03
+Column=000013824 Fraction=17.3% Gflops=2.948e+03
+Column=000013952 Fraction=17.4% Gflops=2.946e+03
+Column=000014080 Fraction=17.6% Gflops=2.947e+03
+Column=000014208 Fraction=17.8% Gflops=2.941e+03
+Column=000014336 Fraction=17.9% Gflops=2.946e+03
+Column=000014464 Fraction=18.1% Gflops=2.942e+03
+Column=000014592 Fraction=18.2% Gflops=2.930e+03
+Column=000014720 Fraction=18.4% Gflops=2.928e+03
+Column=000014848 Fraction=18.6% Gflops=2.927e+03
+Column=000014976 Fraction=18.7% Gflops=2.927e+03
+Column=000015104 Fraction=18.9% Gflops=2.924e+03
+Column=000015232 Fraction=19.0% Gflops=2.919e+03
+Column=000015360 Fraction=19.2% Gflops=2.919e+03
+Column=000015488 Fraction=19.4% Gflops=2.913e+03
+Column=000015616 Fraction=19.5% Gflops=2.909e+03
+Column=000015744 Fraction=19.7% Gflops=2.912e+03
+Column=000015872 Fraction=19.8% Gflops=2.913e+03
+Column=000016000 Fraction=20.0% Gflops=2.912e+03
+Column=000016128 Fraction=20.2% Gflops=2.910e+03
+Column=000016256 Fraction=20.3% Gflops=2.910e+03
+Column=000016384 Fraction=20.5% Gflops=2.911e+03
+Column=000016512 Fraction=20.6% Gflops=2.912e+03
+Column=000016640 Fraction=20.8% Gflops=2.901e+03
+Column=000016768 Fraction=21.0% Gflops=2.901e+03
+Column=000016896 Fraction=21.1% Gflops=2.900e+03
+Column=000017024 Fraction=21.3% Gflops=2.900e+03
+Column=000017152 Fraction=21.4% Gflops=2.900e+03
+Column=000017280 Fraction=21.6% Gflops=2.901e+03
+Column=000017408 Fraction=21.8% Gflops=2.901e+03
+Column=000017536 Fraction=21.9% Gflops=2.899e+03
+Column=000017664 Fraction=22.1% Gflops=2.898e+03
+Column=000017792 Fraction=22.2% Gflops=2.895e+03
+Column=000017920 Fraction=22.4% Gflops=2.896e+03
+Column=000018048 Fraction=22.6% Gflops=2.897e+03
+Column=000018176 Fraction=22.7% Gflops=2.900e+03
+Column=000018304 Fraction=22.9% Gflops=2.899e+03
+Column=000018432 Fraction=23.0% Gflops=2.899e+03
+Column=000018560 Fraction=23.2% Gflops=2.901e+03
+Column=000018688 Fraction=23.4% Gflops=2.892e+03
+Column=000018816 Fraction=23.5% Gflops=2.893e+03
+Column=000018944 Fraction=23.7% Gflops=2.894e+03
+Column=000019072 Fraction=23.8% Gflops=2.894e+03
+Column=000019200 Fraction=24.0% Gflops=2.894e+03
+Column=000019328 Fraction=24.2% Gflops=2.894e+03
+Column=000019456 Fraction=24.3% Gflops=2.893e+03
+Column=000019584 Fraction=24.5% Gflops=2.891e+03
+Column=000019712 Fraction=24.6% Gflops=2.891e+03
+Column=000019840 Fraction=24.8% Gflops=2.893e+03
+Column=000019968 Fraction=25.0% Gflops=2.894e+03
+Column=000020096 Fraction=25.1% Gflops=2.896e+03
+Column=000020224 Fraction=25.3% Gflops=2.896e+03
+Column=000020352 Fraction=25.4% Gflops=2.896e+03
+Column=000020480 Fraction=25.6% Gflops=2.895e+03
+Column=000020608 Fraction=25.8% Gflops=2.896e+03
+Column=000020736 Fraction=25.9% Gflops=2.887e+03
+Column=000020864 Fraction=26.1% Gflops=2.887e+03
+Column=000020992 Fraction=26.2% Gflops=2.886e+03
+Column=000021120 Fraction=26.4% Gflops=2.886e+03
+Column=000021248 Fraction=26.6% Gflops=2.885e+03
+Column=000021376 Fraction=26.7% Gflops=2.884e+03
+Column=000021504 Fraction=26.9% Gflops=2.883e+03
+Column=000021632 Fraction=27.0% Gflops=2.882e+03
+Column=000021760 Fraction=27.2% Gflops=2.882e+03
+Column=000021888 Fraction=27.4% Gflops=2.879e+03
+Column=000022016 Fraction=27.5% Gflops=2.880e+03
+Column=000022144 Fraction=27.7% Gflops=2.881e+03
+Column=000022272 Fraction=27.8% Gflops=2.882e+03
+Column=000022400 Fraction=28.0% Gflops=2.882e+03
+Column=000022528 Fraction=28.2% Gflops=2.881e+03
+Column=000022656 Fraction=28.3% Gflops=2.881e+03
+Column=000022784 Fraction=28.5% Gflops=2.873e+03
+Column=000022912 Fraction=28.6% Gflops=2.873e+03
+Column=000023040 Fraction=28.8% Gflops=2.872e+03
+Column=000023168 Fraction=29.0% Gflops=2.870e+03
+Column=000023296 Fraction=29.1% Gflops=2.870e+03
+Column=000023424 Fraction=29.3% Gflops=2.869e+03
+Column=000023552 Fraction=29.4% Gflops=2.868e+03
+Column=000023680 Fraction=29.6% Gflops=2.869e+03
+Column=000023808 Fraction=29.8% Gflops=2.869e+03
+Column=000023936 Fraction=29.9% Gflops=2.870e+03
+Column=000024064 Fraction=30.1% Gflops=2.870e+03
+Column=000024192 Fraction=30.2% Gflops=2.869e+03
+Column=000024320 Fraction=30.4% Gflops=2.868e+03
+Column=000024448 Fraction=30.6% Gflops=2.868e+03
+Column=000024576 Fraction=30.7% Gflops=2.867e+03
+Column=000024704 Fraction=30.9% Gflops=2.867e+03
+Column=000024832 Fraction=31.0% Gflops=2.860e+03
+Column=000024960 Fraction=31.2% Gflops=2.859e+03
+Column=000025088 Fraction=31.4% Gflops=2.859e+03
+Column=000025216 Fraction=31.5% Gflops=2.858e+03
+Column=000025344 Fraction=31.7% Gflops=2.858e+03
+Column=000025472 Fraction=31.8% Gflops=2.857e+03
+Column=000025600 Fraction=32.0% Gflops=2.855e+03
+Column=000025728 Fraction=32.2% Gflops=2.855e+03
+Column=000025856 Fraction=32.3% Gflops=2.855e+03
+Column=000025984 Fraction=32.5% Gflops=2.856e+03
+Column=000026112 Fraction=32.6% Gflops=2.856e+03
+Column=000026240 Fraction=32.8% Gflops=2.856e+03
+Column=000026368 Fraction=33.0% Gflops=2.855e+03
+Column=000026496 Fraction=33.1% Gflops=2.854e+03
+Column=000026624 Fraction=33.3% Gflops=2.853e+03
+Column=000026752 Fraction=33.4% Gflops=2.853e+03
+Column=000026880 Fraction=33.6% Gflops=2.846e+03
+Column=000027008 Fraction=33.8% Gflops=2.846e+03
+Column=000027136 Fraction=33.9% Gflops=2.846e+03
+Column=000027264 Fraction=34.1% Gflops=2.844e+03
+Column=000027392 Fraction=34.2% Gflops=2.843e+03
+Column=000027520 Fraction=34.4% Gflops=2.842e+03
+Column=000027648 Fraction=34.6% Gflops=2.840e+03
+Column=000027776 Fraction=34.7% Gflops=2.839e+03
+Column=000027904 Fraction=34.9% Gflops=2.839e+03
+Column=000028032 Fraction=35.0% Gflops=2.837e+03
+Column=000028160 Fraction=35.2% Gflops=2.838e+03
+Column=000028288 Fraction=35.4% Gflops=2.837e+03
+Column=000028416 Fraction=35.5% Gflops=2.837e+03
+Column=000028544 Fraction=35.7% Gflops=2.836e+03
+Column=000028672 Fraction=35.8% Gflops=2.835e+03
+Column=000028800 Fraction=36.0% Gflops=2.835e+03
+Column=000028928 Fraction=36.2% Gflops=2.826e+03
+Column=000029056 Fraction=36.3% Gflops=2.825e+03
+Column=000029184 Fraction=36.5% Gflops=2.824e+03
+Column=000029312 Fraction=36.6% Gflops=2.822e+03
+Column=000029440 Fraction=36.8% Gflops=2.821e+03
+Column=000029568 Fraction=37.0% Gflops=2.820e+03
+Column=000029696 Fraction=37.1% Gflops=2.818e+03
+Column=000029824 Fraction=37.3% Gflops=2.817e+03
+Column=000029952 Fraction=37.4% Gflops=2.815e+03
+Column=000030080 Fraction=37.6% Gflops=2.812e+03
+Column=000030208 Fraction=37.8% Gflops=2.809e+03
+Column=000030336 Fraction=37.9% Gflops=2.809e+03
+Column=000030464 Fraction=38.1% Gflops=2.807e+03
+Column=000030592 Fraction=38.2% Gflops=2.805e+03
+Column=000030720 Fraction=38.4% Gflops=2.805e+03
+Column=000030848 Fraction=38.6% Gflops=2.804e+03
+Column=000030976 Fraction=38.7% Gflops=2.798e+03
+Column=000031104 Fraction=38.9% Gflops=2.796e+03
+Column=000031232 Fraction=39.0% Gflops=2.795e+03
+Column=000031360 Fraction=39.2% Gflops=2.794e+03
+Column=000031488 Fraction=39.4% Gflops=2.791e+03
+Column=000031616 Fraction=39.5% Gflops=2.791e+03
+Column=000031744 Fraction=39.7% Gflops=2.789e+03
+Column=000031872 Fraction=39.8% Gflops=2.788e+03
+Column=000032000 Fraction=40.0% Gflops=2.788e+03
+Column=000032128 Fraction=40.2% Gflops=2.780e+03
+Column=000032256 Fraction=40.3% Gflops=2.780e+03
+Column=000032384 Fraction=40.5% Gflops=2.780e+03
+Column=000032512 Fraction=40.6% Gflops=2.778e+03
+Column=000032640 Fraction=40.8% Gflops=2.776e+03
+Column=000032768 Fraction=41.0% Gflops=2.775e+03
+Column=000032896 Fraction=41.1% Gflops=2.775e+03
+Column=000033024 Fraction=41.3% Gflops=2.770e+03
+Column=000033152 Fraction=41.4% Gflops=2.768e+03
+Column=000033280 Fraction=41.6% Gflops=2.767e+03
+Column=000033408 Fraction=41.8% Gflops=2.766e+03
+Column=000033536 Fraction=41.9% Gflops=2.765e+03
+Column=000033664 Fraction=42.1% Gflops=2.764e+03
+Column=000033792 Fraction=42.2% Gflops=2.757e+03
+Column=000033920 Fraction=42.4% Gflops=2.757e+03
+Column=000034048 Fraction=42.6% Gflops=2.757e+03
+Column=000034176 Fraction=42.7% Gflops=2.758e+03
+Column=000034304 Fraction=42.9% Gflops=2.759e+03
+Column=000034432 Fraction=43.0% Gflops=2.759e+03
+Column=000034560 Fraction=43.2% Gflops=2.756e+03
+Column=000034688 Fraction=43.4% Gflops=2.756e+03
+Column=000034816 Fraction=43.5% Gflops=2.755e+03
+Column=000034944 Fraction=43.7% Gflops=2.755e+03
+Column=000035072 Fraction=43.8% Gflops=2.750e+03
+Column=000035200 Fraction=44.0% Gflops=2.744e+03
+Column=000035328 Fraction=44.2% Gflops=2.744e+03
+Column=000035456 Fraction=44.3% Gflops=2.743e+03
+Column=000035584 Fraction=44.5% Gflops=2.741e+03
+Column=000035712 Fraction=44.6% Gflops=2.741e+03
+Column=000035840 Fraction=44.8% Gflops=2.740e+03
+Column=000035968 Fraction=45.0% Gflops=2.740e+03
+Column=000036096 Fraction=45.1% Gflops=2.740e+03
+Column=000036224 Fraction=45.3% Gflops=2.738e+03
+Column=000036352 Fraction=45.4% Gflops=2.738e+03
+Column=000036480 Fraction=45.6% Gflops=2.736e+03
+Column=000036608 Fraction=45.8% Gflops=2.736e+03
+Column=000036736 Fraction=45.9% Gflops=2.735e+03
+Column=000036864 Fraction=46.1% Gflops=2.733e+03
+Column=000036992 Fraction=46.2% Gflops=2.731e+03
+Column=000037120 Fraction=46.4% Gflops=2.719e+03
+Column=000037248 Fraction=46.6% Gflops=2.718e+03
+Column=000037376 Fraction=46.7% Gflops=2.717e+03
+Column=000037504 Fraction=46.9% Gflops=2.715e+03
+Column=000037632 Fraction=47.0% Gflops=2.713e+03
+Column=000037760 Fraction=47.2% Gflops=2.712e+03
+Column=000037888 Fraction=47.4% Gflops=2.712e+03
+Column=000038016 Fraction=47.5% Gflops=2.711e+03
+Column=000038144 Fraction=47.7% Gflops=2.711e+03
+Column=000038272 Fraction=47.8% Gflops=2.710e+03
+Column=000038400 Fraction=48.0% Gflops=2.710e+03
+Column=000038528 Fraction=48.2% Gflops=2.709e+03
+Column=000038656 Fraction=48.3% Gflops=2.708e+03
+Column=000038784 Fraction=48.5% Gflops=2.707e+03
+Column=000038912 Fraction=48.6% Gflops=2.706e+03
+Column=000039040 Fraction=48.8% Gflops=2.705e+03
+Column=000039168 Fraction=49.0% Gflops=2.701e+03
+Column=000039296 Fraction=49.1% Gflops=2.700e+03
+Column=000039424 Fraction=49.3% Gflops=2.698e+03
+Column=000039552 Fraction=49.4% Gflops=2.693e+03
+Column=000039680 Fraction=49.6% Gflops=2.692e+03
+Column=000039808 Fraction=49.8% Gflops=2.691e+03
+Column=000039936 Fraction=49.9% Gflops=2.690e+03
+Column=000040064 Fraction=50.1% Gflops=2.689e+03
+Column=000040192 Fraction=50.2% Gflops=2.689e+03
+Column=000040320 Fraction=50.4% Gflops=2.688e+03
+Column=000040448 Fraction=50.6% Gflops=2.686e+03
+Column=000040576 Fraction=50.7% Gflops=2.687e+03
+Column=000040704 Fraction=50.9% Gflops=2.686e+03
+Column=000040832 Fraction=51.0% Gflops=2.685e+03
+Column=000040960 Fraction=51.2% Gflops=2.684e+03
+Column=000041088 Fraction=51.4% Gflops=2.683e+03
+Column=000041216 Fraction=51.5% Gflops=2.679e+03
+Column=000041344 Fraction=51.7% Gflops=2.678e+03
+Column=000041472 Fraction=51.8% Gflops=2.677e+03
+Column=000041600 Fraction=52.0% Gflops=2.676e+03
+Column=000041728 Fraction=52.2% Gflops=2.675e+03
+Column=000041856 Fraction=52.3% Gflops=2.673e+03
+Column=000041984 Fraction=52.5% Gflops=2.672e+03
+Column=000042112 Fraction=52.6% Gflops=2.671e+03
+Column=000042240 Fraction=52.8% Gflops=2.670e+03
+Column=000042368 Fraction=53.0% Gflops=2.668e+03
+Column=000042496 Fraction=53.1% Gflops=2.667e+03
+Column=000042624 Fraction=53.3% Gflops=2.663e+03
+Column=000042752 Fraction=53.4% Gflops=2.661e+03
+Column=000042880 Fraction=53.6% Gflops=2.661e+03
+Column=000043008 Fraction=53.8% Gflops=2.660e+03
+Column=000043136 Fraction=53.9% Gflops=2.659e+03
+Column=000043264 Fraction=54.1% Gflops=2.656e+03
+Column=000043392 Fraction=54.2% Gflops=2.654e+03
+Column=000043520 Fraction=54.4% Gflops=2.653e+03
+Column=000043648 Fraction=54.6% Gflops=2.652e+03
+Column=000043776 Fraction=54.7% Gflops=2.651e+03
+Column=000043904 Fraction=54.9% Gflops=2.650e+03
+Column=000044032 Fraction=55.0% Gflops=2.648e+03
+Column=000044160 Fraction=55.2% Gflops=2.648e+03
+Column=000044288 Fraction=55.4% Gflops=2.646e+03
+Column=000044416 Fraction=55.5% Gflops=2.642e+03
+Column=000044544 Fraction=55.7% Gflops=2.640e+03
+Column=000044672 Fraction=55.8% Gflops=2.640e+03
+Column=000044800 Fraction=56.0% Gflops=2.639e+03
+Column=000044928 Fraction=56.2% Gflops=2.639e+03
+Column=000045056 Fraction=56.3% Gflops=2.638e+03
+Column=000045184 Fraction=56.5% Gflops=2.635e+03
+Column=000045312 Fraction=56.6% Gflops=2.631e+03
+Column=000045440 Fraction=56.8% Gflops=2.630e+03
+Column=000045568 Fraction=57.0% Gflops=2.629e+03
+Column=000045696 Fraction=57.1% Gflops=2.627e+03
+Column=000045824 Fraction=57.3% Gflops=2.625e+03
+Column=000045952 Fraction=57.4% Gflops=2.625e+03
+Column=000046080 Fraction=57.6% Gflops=2.624e+03
+Column=000046208 Fraction=57.8% Gflops=2.623e+03
+Column=000046336 Fraction=57.9% Gflops=2.620e+03
+Column=000046464 Fraction=58.1% Gflops=2.620e+03
+Column=000046592 Fraction=58.2% Gflops=2.620e+03
+Column=000046720 Fraction=58.4% Gflops=2.614e+03
+Column=000046848 Fraction=58.6% Gflops=2.614e+03
+Column=000046976 Fraction=58.7% Gflops=2.613e+03
+Column=000047104 Fraction=58.9% Gflops=2.611e+03
+Column=000047232 Fraction=59.0% Gflops=2.610e+03
+Column=000047360 Fraction=59.2% Gflops=2.606e+03
+Column=000047488 Fraction=59.4% Gflops=2.601e+03
+Column=000047616 Fraction=59.5% Gflops=2.600e+03
+Column=000047744 Fraction=59.7% Gflops=2.599e+03
+Column=000047872 Fraction=59.8% Gflops=2.597e+03
+Column=000048000 Fraction=60.0% Gflops=2.596e+03
+Column=000048128 Fraction=60.2% Gflops=2.595e+03
+Column=000048256 Fraction=60.3% Gflops=2.594e+03
+Column=000048384 Fraction=60.5% Gflops=2.593e+03
+Column=000048512 Fraction=60.6% Gflops=2.591e+03
+Column=000048640 Fraction=60.8% Gflops=2.590e+03
+Column=000048768 Fraction=61.0% Gflops=2.588e+03
+Column=000048896 Fraction=61.1% Gflops=2.586e+03
+Column=000049024 Fraction=61.3% Gflops=2.581e+03
+Column=000049152 Fraction=61.4% Gflops=2.580e+03
+Column=000049280 Fraction=61.6% Gflops=2.576e+03
+Column=000049408 Fraction=61.8% Gflops=2.574e+03
+Column=000049536 Fraction=61.9% Gflops=2.571e+03
+Column=000049664 Fraction=62.1% Gflops=2.569e+03
+Column=000049792 Fraction=62.2% Gflops=2.564e+03
+Column=000049920 Fraction=62.4% Gflops=2.562e+03
+Column=000050048 Fraction=62.6% Gflops=2.561e+03
+Column=000050176 Fraction=62.7% Gflops=2.559e+03
+Column=000050304 Fraction=62.9% Gflops=2.558e+03
+Column=000050432 Fraction=63.0% Gflops=2.557e+03
+Column=000050560 Fraction=63.2% Gflops=2.555e+03
+Column=000050688 Fraction=63.4% Gflops=2.554e+03
+Column=000050816 Fraction=63.5% Gflops=2.553e+03
+Column=000050944 Fraction=63.7% Gflops=2.552e+03
+Column=000051072 Fraction=63.8% Gflops=2.551e+03
+Column=000051200 Fraction=64.0% Gflops=2.550e+03
+Column=000051328 Fraction=64.2% Gflops=2.549e+03
+Column=000051456 Fraction=64.3% Gflops=2.546e+03
+Column=000051584 Fraction=64.5% Gflops=2.545e+03
+Column=000051712 Fraction=64.6% Gflops=2.544e+03
+Column=000051840 Fraction=64.8% Gflops=2.543e+03
+Column=000051968 Fraction=65.0% Gflops=2.542e+03
+Column=000052096 Fraction=65.1% Gflops=2.540e+03
+Column=000052224 Fraction=65.3% Gflops=2.539e+03
+Column=000052352 Fraction=65.4% Gflops=2.534e+03
+Column=000052480 Fraction=65.6% Gflops=2.533e+03
+Column=000052608 Fraction=65.8% Gflops=2.532e+03
+Column=000052736 Fraction=65.9% Gflops=2.527e+03
+Column=000052864 Fraction=66.1% Gflops=2.526e+03
+Column=000052992 Fraction=66.2% Gflops=2.521e+03
+Column=000053120 Fraction=66.4% Gflops=2.519e+03
+Column=000053248 Fraction=66.6% Gflops=2.518e+03
+Column=000053376 Fraction=66.7% Gflops=2.517e+03
+Column=000053504 Fraction=66.9% Gflops=2.514e+03
+Column=000053632 Fraction=67.0% Gflops=2.513e+03
+Column=000053760 Fraction=67.2% Gflops=2.511e+03
+Column=000053888 Fraction=67.4% Gflops=2.510e+03
+Column=000054016 Fraction=67.5% Gflops=2.509e+03
+Column=000054144 Fraction=67.7% Gflops=2.508e+03
+Column=000054272 Fraction=67.8% Gflops=2.506e+03
+Column=000054400 Fraction=68.0% Gflops=2.505e+03
+Column=000054528 Fraction=68.2% Gflops=2.504e+03
+Column=000054656 Fraction=68.3% Gflops=2.503e+03
+Column=000054784 Fraction=68.5% Gflops=2.502e+03
+Column=000054912 Fraction=68.6% Gflops=2.500e+03
+Column=000055040 Fraction=68.8% Gflops=2.499e+03
+Column=000055168 Fraction=69.0% Gflops=2.494e+03
+Column=000055296 Fraction=69.1% Gflops=2.493e+03
+Column=000055424 Fraction=69.3% Gflops=2.492e+03
+Column=000055552 Fraction=69.4% Gflops=2.490e+03
+Column=000055680 Fraction=69.6% Gflops=2.489e+03
+Column=000055808 Fraction=69.8% Gflops=2.488e+03
+Column=000055936 Fraction=69.9% Gflops=2.485e+03
+Column=000056064 Fraction=70.1% Gflops=2.484e+03
+Column=000056192 Fraction=70.2% Gflops=2.483e+03
+Column=000056320 Fraction=70.4% Gflops=2.481e+03
+Column=000056448 Fraction=70.6% Gflops=2.480e+03
+Column=000056576 Fraction=70.7% Gflops=2.479e+03
+Column=000056704 Fraction=70.9% Gflops=2.478e+03
+Column=000056832 Fraction=71.0% Gflops=2.477e+03
+Column=000056960 Fraction=71.2% Gflops=2.476e+03
+Column=000057088 Fraction=71.4% Gflops=2.474e+03
+Column=000057216 Fraction=71.5% Gflops=2.470e+03
+Column=000057344 Fraction=71.7% Gflops=2.469e+03
+Column=000057472 Fraction=71.8% Gflops=2.468e+03
+Column=000057600 Fraction=72.0% Gflops=2.464e+03
+Column=000057728 Fraction=72.2% Gflops=2.463e+03
+Column=000057856 Fraction=72.3% Gflops=2.463e+03
+Column=000057984 Fraction=72.5% Gflops=2.462e+03
+Column=000058112 Fraction=72.6% Gflops=2.460e+03
+Column=000058240 Fraction=72.8% Gflops=2.459e+03
+Column=000058368 Fraction=73.0% Gflops=2.458e+03
+Column=000058496 Fraction=73.1% Gflops=2.457e+03
+Column=000058624 Fraction=73.3% Gflops=2.455e+03
+Column=000058752 Fraction=73.4% Gflops=2.454e+03
+Column=000058880 Fraction=73.6% Gflops=2.453e+03
+Column=000059008 Fraction=73.8% Gflops=2.452e+03
+Column=000059136 Fraction=73.9% Gflops=2.451e+03
+Column=000059264 Fraction=74.1% Gflops=2.450e+03
+Column=000059392 Fraction=74.2% Gflops=2.450e+03
+Column=000059520 Fraction=74.4% Gflops=2.446e+03
+Column=000059648 Fraction=74.6% Gflops=2.443e+03
+Column=000059776 Fraction=74.7% Gflops=2.442e+03
+Column=000059904 Fraction=74.9% Gflops=2.441e+03
+Column=000060032 Fraction=75.0% Gflops=2.439e+03
+Column=000060160 Fraction=75.2% Gflops=2.438e+03
+Column=000060288 Fraction=75.4% Gflops=2.434e+03
+Column=000060416 Fraction=75.5% Gflops=2.432e+03
+Column=000060544 Fraction=75.7% Gflops=2.432e+03
+Column=000060672 Fraction=75.8% Gflops=2.430e+03
+Column=000060800 Fraction=76.0% Gflops=2.429e+03
+Column=000060928 Fraction=76.2% Gflops=2.428e+03
+Column=000061056 Fraction=76.3% Gflops=2.427e+03
+Column=000061184 Fraction=76.5% Gflops=2.426e+03
+Column=000061312 Fraction=76.6% Gflops=2.425e+03
+Column=000061440 Fraction=76.8% Gflops=2.424e+03
+Column=000061568 Fraction=77.0% Gflops=2.421e+03
+Column=000061696 Fraction=77.1% Gflops=2.419e+03
+Column=000061824 Fraction=77.3% Gflops=2.418e+03
+Column=000061952 Fraction=77.4% Gflops=2.416e+03
+Column=000062080 Fraction=77.6% Gflops=2.413e+03
+Column=000062208 Fraction=77.8% Gflops=2.412e+03
+Column=000062336 Fraction=77.9% Gflops=2.412e+03
+Column=000062464 Fraction=78.1% Gflops=2.411e+03
+Column=000062592 Fraction=78.2% Gflops=2.410e+03
+Column=000062720 Fraction=78.4% Gflops=2.409e+03
+Column=000062848 Fraction=78.6% Gflops=2.408e+03
+Column=000062976 Fraction=78.7% Gflops=2.406e+03
+Column=000063104 Fraction=78.9% Gflops=2.405e+03
+Column=000063232 Fraction=79.0% Gflops=2.404e+03
+Column=000063360 Fraction=79.2% Gflops=2.403e+03
+Column=000063488 Fraction=79.4% Gflops=2.401e+03
+Column=000063616 Fraction=79.5% Gflops=2.401e+03
+Column=000063744 Fraction=79.7% Gflops=2.399e+03
+Column=000063872 Fraction=79.8% Gflops=2.398e+03
+Column=000064000 Fraction=80.0% Gflops=2.397e+03
+Column=000064128 Fraction=80.2% Gflops=2.396e+03
+Column=000064256 Fraction=80.3% Gflops=2.395e+03
+Column=000064384 Fraction=80.5% Gflops=2.393e+03
+Column=000064512 Fraction=80.6% Gflops=2.392e+03
+Column=000064640 Fraction=80.8% Gflops=2.391e+03
+Column=000064768 Fraction=81.0% Gflops=2.390e+03
+Column=000064896 Fraction=81.1% Gflops=2.389e+03
+Column=000065024 Fraction=81.3% Gflops=2.388e+03
+Column=000065152 Fraction=81.4% Gflops=2.387e+03
+Column=000065280 Fraction=81.6% Gflops=2.386e+03
+Column=000065408 Fraction=81.8% Gflops=2.385e+03
+Column=000065536 Fraction=81.9% Gflops=2.384e+03
+Column=000065664 Fraction=82.1% Gflops=2.383e+03
+Column=000065792 Fraction=82.2% Gflops=2.381e+03
+Column=000065920 Fraction=82.4% Gflops=2.381e+03
+Column=000066048 Fraction=82.6% Gflops=2.380e+03
+Column=000066176 Fraction=82.7% Gflops=2.379e+03
+Column=000066304 Fraction=82.9% Gflops=2.378e+03
+Column=000066432 Fraction=83.0% Gflops=2.376e+03
+Column=000066560 Fraction=83.2% Gflops=2.375e+03
+Column=000066688 Fraction=83.4% Gflops=2.372e+03
+Column=000066816 Fraction=83.5% Gflops=2.372e+03
+Column=000066944 Fraction=83.7% Gflops=2.371e+03
+Column=000067072 Fraction=83.8% Gflops=2.371e+03
+Column=000067200 Fraction=84.0% Gflops=2.371e+03
+Column=000067328 Fraction=84.2% Gflops=2.369e+03
+Column=000067456 Fraction=84.3% Gflops=2.368e+03
+Column=000067584 Fraction=84.5% Gflops=2.367e+03
+Column=000067712 Fraction=84.6% Gflops=2.367e+03
+Column=000067840 Fraction=84.8% Gflops=2.365e+03
+Column=000067968 Fraction=85.0% Gflops=2.364e+03
+Column=000068096 Fraction=85.1% Gflops=2.363e+03
+Column=000068224 Fraction=85.3% Gflops=2.359e+03
+Column=000068352 Fraction=85.4% Gflops=2.359e+03
+Column=000068480 Fraction=85.6% Gflops=2.358e+03
+Column=000068608 Fraction=85.8% Gflops=2.357e+03
+Column=000068736 Fraction=85.9% Gflops=2.357e+03
+Column=000068864 Fraction=86.1% Gflops=2.356e+03
+Column=000068992 Fraction=86.2% Gflops=2.355e+03
+Column=000069120 Fraction=86.4% Gflops=2.353e+03
+Column=000069248 Fraction=86.6% Gflops=2.353e+03
+Column=000069376 Fraction=86.7% Gflops=2.352e+03
+Column=000069504 Fraction=86.9% Gflops=2.350e+03
+Column=000069632 Fraction=87.0% Gflops=2.350e+03
+Column=000069760 Fraction=87.2% Gflops=2.349e+03
+Column=000069888 Fraction=87.4% Gflops=2.348e+03
+Column=000070016 Fraction=87.5% Gflops=2.347e+03
+Column=000070144 Fraction=87.7% Gflops=2.346e+03
+Column=000070272 Fraction=87.8% Gflops=2.345e+03
+Column=000070400 Fraction=88.0% Gflops=2.344e+03
+Column=000070528 Fraction=88.2% Gflops=2.343e+03
+Column=000070656 Fraction=88.3% Gflops=2.342e+03
+Column=000070784 Fraction=88.5% Gflops=2.341e+03
+Column=000070912 Fraction=88.6% Gflops=2.340e+03
+Column=000071040 Fraction=88.8% Gflops=2.339e+03
+Column=000071168 Fraction=89.0% Gflops=2.338e+03
+Column=000071296 Fraction=89.1% Gflops=2.338e+03
+Column=000071424 Fraction=89.3% Gflops=2.337e+03
+Column=000071552 Fraction=89.4% Gflops=2.336e+03
+Column=000071680 Fraction=89.6% Gflops=2.335e+03
+Column=000071808 Fraction=89.8% Gflops=2.334e+03
+Column=000071936 Fraction=89.9% Gflops=2.333e+03
+Column=000072064 Fraction=90.1% Gflops=2.332e+03
+Column=000072192 Fraction=90.2% Gflops=2.331e+03
+Column=000072320 Fraction=90.4% Gflops=2.331e+03
+Column=000072448 Fraction=90.6% Gflops=2.330e+03
+Column=000072576 Fraction=90.7% Gflops=2.329e+03
+Column=000072704 Fraction=90.9% Gflops=2.328e+03
+Column=000072832 Fraction=91.0% Gflops=2.328e+03
+Column=000072960 Fraction=91.2% Gflops=2.327e+03
+Column=000073088 Fraction=91.4% Gflops=2.326e+03
+Column=000073216 Fraction=91.5% Gflops=2.325e+03
+Column=000073344 Fraction=91.7% Gflops=2.324e+03
+Column=000073472 Fraction=91.8% Gflops=2.324e+03
+Column=000073600 Fraction=92.0% Gflops=2.323e+03
+Column=000073728 Fraction=92.2% Gflops=2.322e+03
+Column=000073856 Fraction=92.3% Gflops=2.322e+03
+Column=000073984 Fraction=92.5% Gflops=2.321e+03
+Column=000074112 Fraction=92.6% Gflops=2.320e+03
+Column=000074240 Fraction=92.8% Gflops=2.319e+03
+Column=000074368 Fraction=93.0% Gflops=2.319e+03
+Column=000074496 Fraction=93.1% Gflops=2.318e+03
+Column=000074624 Fraction=93.3% Gflops=2.317e+03
+Column=000074752 Fraction=93.4% Gflops=2.316e+03
+Column=000074880 Fraction=93.6% Gflops=2.316e+03
+Column=000075008 Fraction=93.8% Gflops=2.315e+03
+Column=000075136 Fraction=93.9% Gflops=2.314e+03
+Column=000075264 Fraction=94.1% Gflops=2.314e+03
+Column=000075392 Fraction=94.2% Gflops=2.313e+03
+Column=000075520 Fraction=94.4% Gflops=2.312e+03
+Column=000075648 Fraction=94.6% Gflops=2.312e+03
+Column=000075776 Fraction=94.7% Gflops=2.311e+03
+Column=000075904 Fraction=94.9% Gflops=2.311e+03
+Column=000076032 Fraction=95.0% Gflops=2.310e+03
+Column=000076160 Fraction=95.2% Gflops=2.309e+03
+Column=000076288 Fraction=95.4% Gflops=2.308e+03
+Column=000076416 Fraction=95.5% Gflops=2.308e+03
+Column=000076544 Fraction=95.7% Gflops=2.307e+03
+Column=000076672 Fraction=95.8% Gflops=2.307e+03
+Column=000076800 Fraction=96.0% Gflops=2.306e+03
+Column=000076928 Fraction=96.2% Gflops=2.306e+03
+Column=000077056 Fraction=96.3% Gflops=2.305e+03
+Column=000077184 Fraction=96.5% Gflops=2.305e+03
+Column=000077312 Fraction=96.6% Gflops=2.304e+03
+Column=000077440 Fraction=96.8% Gflops=2.303e+03
+Column=000077568 Fraction=97.0% Gflops=2.303e+03
+Column=000077696 Fraction=97.1% Gflops=2.302e+03
+Column=000077824 Fraction=97.3% Gflops=2.302e+03
+Column=000077952 Fraction=97.4% Gflops=2.301e+03
+Column=000078080 Fraction=97.6% Gflops=2.301e+03
+Column=000078208 Fraction=97.8% Gflops=2.300e+03
+Column=000078336 Fraction=97.9% Gflops=2.300e+03
+Column=000078464 Fraction=98.1% Gflops=2.299e+03
+Column=000078592 Fraction=98.2% Gflops=2.299e+03
+Column=000078720 Fraction=98.4% Gflops=2.298e+03
+Column=000078848 Fraction=98.6% Gflops=2.298e+03
+Column=000078976 Fraction=98.7% Gflops=2.297e+03
+Column=000079104 Fraction=98.9% Gflops=2.297e+03
+Column=000079232 Fraction=99.0% Gflops=2.296e+03
+Column=000079360 Fraction=99.2% Gflops=2.296e+03
+Column=000079488 Fraction=99.4% Gflops=2.295e+03
+Column=000079616 Fraction=99.5% Gflops=2.295e+03
+Column=000079744 Fraction=99.7% Gflops=2.295e+03
+Column=000079872 Fraction=99.8% Gflops=2.294e+03

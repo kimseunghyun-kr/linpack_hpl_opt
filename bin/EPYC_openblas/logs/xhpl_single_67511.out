@@ -1,0 +1,11 @@
+[xhpl_single] CWD: /home/k/kimsh/HPL_Linpack/hpl-2.3/bin/EPYC_openblas/work/N80000_NB128_P16Q16_pf1rf1_nbmin4_ndiv2_bc1_d0_sw2_t64
+[xhpl_single] DAT line3: /home/k/kimsh/HPL_Linpack/hpl-2.3/bin/EPYC_openblas/results/xhpl_N80000_NB128_P16Q16_pf1rf1_nbmin4_ndiv2_bc1_d0_sw2_t64.out
+[xhpl_single] OUT expected: /home/k/kimsh/HPL_Linpack/hpl-2.3/bin/EPYC_openblas/results/xhpl_N80000_NB128_P16Q16_pf1rf1_nbmin4_ndiv2_bc1_d0_sw2_t64.out
+xcnf0    192.168.48.128/21 | libopenblas.so.0 => /home/k/kimsh/opt/openblas/lib/libopenblas.so.0 (0x00007c2dbe768000)
+ | provider=psm3 iface=enp131s0f0 subnets=192.168.48.0/21
+xcnf1    192.168.48.129/21 | libopenblas.so.0 => /home/k/kimsh/opt/openblas/lib/libopenblas.so.0 (0x00007b114aa98000)
+ | provider=psm3 iface=enp131s0f0 subnets=192.168.48.0/21
+xcnf2    192.168.48.130/21 | libopenblas.so.0 => /home/k/kimsh/opt/openblas/lib/libopenblas.so.0 (0x00007cdd95718000)
+ | provider=psm3 iface=enp131s0f0 subnets=192.168.48.0/21
+xcnf3    192.168.48.131/21 | libopenblas.so.0 => /home/k/kimsh/opt/openblas/lib/libopenblas.so.0 (0x00007b1db4838000)
+ | provider=psm3 iface=enp131s0f0 subnets=192.168.48.0/21

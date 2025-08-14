@@ -1,0 +1,19 @@
+[xhpl_single] CWD: /home/k/kimsh/HPL_Linpack/hpl-2.3/bin/EPYC_refblas/work/N80000_NB128_P16Q16_pf1rf1_nbmin4_ndiv2_bc1_d0_sw2_t64
+[xhpl_single] DAT line3: /home/k/kimsh/HPL_Linpack/hpl-2.3/bin/EPYC_refblas/results/xhpl_N80000_NB128_P16Q16_pf1rf1_nbmin4_ndiv2_bc1_d0_sw2_t64.out
+[xhpl_single] OUT expected: /home/k/kimsh/HPL_Linpack/hpl-2.3/bin/EPYC_refblas/results/xhpl_N80000_NB128_P16Q16_pf1rf1_nbmin4_ndiv2_bc1_d0_sw2_t64.out
+xcnf0  	libmpi.so.12 => /home/k/kimsh/.local/mpich/lib/libmpi.so.12 (0x0000728885567000)
+xcnf3  	libmpi.so.12 => /home/k/kimsh/.local/mpich/lib/libmpi.so.12 (0x00007f21f613b000)
+xcnf1  	libmpi.so.12 => /home/k/kimsh/.local/mpich/lib/libmpi.so.12 (0x0000738096988000)
+xcnf2  	libmpi.so.12 => /home/k/kimsh/.local/mpich/lib/libmpi.so.12 (0x0000770fbe263000)
+Column=000000128 Fraction= 0.2% Gflops=1.835e+02
+Column=000000256 Fraction= 0.3% Gflops=1.818e+02
+Column=000000384 Fraction= 0.5% Gflops=1.827e+02
+Column=000000512 Fraction= 0.6% Gflops=1.826e+02
+Column=000000640 Fraction= 0.8% Gflops=1.828e+02
+Column=000000768 Fraction= 1.0% Gflops=1.830e+02
+Column=000000896 Fraction= 1.1% Gflops=1.829e+02
+Column=000001024 Fraction= 1.3% Gflops=1.828e+02
+Column=000001152 Fraction= 1.4% Gflops=1.827e+02
+Column=000001280 Fraction= 1.6% Gflops=1.827e+02
+Column=000001408 Fraction= 1.8% Gflops=1.831e+02
+Column=000001536 Fraction= 1.9% Gflops=1.832e+02

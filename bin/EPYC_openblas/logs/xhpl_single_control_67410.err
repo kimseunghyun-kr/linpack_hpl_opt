@@ -1,0 +1,131 @@
+Core not found: Zen3
+Core: Haswell
+Core not found: Zen3
+Core: Haswell
+Core not found: Zen3
+Core: Haswell
+Core not found: Zen3
+Core: Haswell
+Core not found: Zen3
+Core: Haswell
+Core not found: Zen3
+Core: Haswell
+Core not found: Zen3
+Core: Haswell
+Core not found: Zen3
+Core: Haswell
+Core not found: Zen3
+Core: Haswell
+Core not found: Zen3
+Core: Haswell
+Core not found: Zen3
+Core: Haswell
+Core not found: Zen3
+Core: Haswell
+Core not found: Zen3
+Core: Haswell
+Core not found: Zen3
+Core: Haswell
+Core not found: Zen3
+Core: Haswell
+Core not found: Zen3
+Core: Haswell
+Core not found: Zen3
+Core: Haswell
+Core not found: Zen3
+Core: Haswell
+Core not found: Zen3
+Core: Haswell
+Core not found: Zen3
+Core: Haswell
+Core not found: Zen3
+Core: Haswell
+Core not found: Zen3
+Core: Haswell
+Core not found: Zen3
+Core: Haswell
+Core not found: Zen3
+Core: Haswell
+Core not found: Zen3
+Core: Haswell
+Core not found: Zen3
+Core: Haswell
+Core not found: Zen3
+Core: Haswell
+Core not found: Zen3
+Core: Haswell
+Core not found: Zen3
+Core: Haswell
+Core not found: Zen3
+Core: Haswell
+Core not found: Zen3
+Core: Haswell
+Core not found: Zen3
+Core: Haswell
+Core not found: Zen3
+Core: Haswell
+Core not found: Zen3
+Core: Haswell
+Core not found: Zen3
+Core: Haswell
+Core not found: Zen3
+Core: Haswell
+Core not found: Zen3
+Core: Haswell
+Core not found: Zen3
+Core: Haswell
+Core not found: Zen3
+Core: Haswell
+Core not found: Zen3
+Core: Haswell
+Core not found: Zen3
+Core: Haswell
+Core not found: Zen3
+Core: Haswell
+Core not found: Zen3
+Core: Haswell
+Core not found: Zen3
+Core: Haswell
+Core not found: Zen3
+Core: Haswell
+Core not found: Zen3
+Core: Haswell
+Core not found: Zen3
+Core: Haswell
+Core not found: Zen3
+Core: Haswell
+Core not found: Zen3
+Core: Haswell
+Core not found: Zen3
+Core: Haswell
+Core not found: Zen3
+Core: Haswell
+Core not found: Zen3
+Core: Haswell
+Core not found: Zen3
+Core: Haswell
+Core not found: Zen3
+Core: Haswell
+Core not found: Zen3
+Core: Haswell
+Core not found: Zen3
+Core: Haswell
+Core not found: Zen3
+Core: Haswell
+Core not found: Zen3
+Core: Haswell
+Core not found: Zen3
+Core: Haswell
+Core not found: Zen3
+Core: Haswell
+Core not found: Zen3
+Core: Haswell
+Core not found: Zen3
+Core: Haswell
+Core not found: Zen3
+Core: Haswell
+Core not found: Zen3
+Core: Haswell
+srun: Job step aborted: Waiting up to 32 seconds for job step to finish.
+[2025-08-13T03:59:09.429] error: *** JOB 67410 ON xcnf0 CANCELLED AT 2025-08-13T03:59:09 DUE to SIGNAL Terminated ***
+[2025-08-13T03:59:09.430] error: *** STEP 67410.1 ON xcnf0 CANCELLED AT 2025-08-13T03:59:09 DUE to SIGNAL Terminated ***

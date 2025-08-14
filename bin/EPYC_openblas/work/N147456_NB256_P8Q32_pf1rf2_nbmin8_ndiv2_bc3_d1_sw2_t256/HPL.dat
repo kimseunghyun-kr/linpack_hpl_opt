@@ -1,0 +1,31 @@
+HPLinpack benchmark input file
+Innovative Computing Laboratory, University of Tennessee
+/home/k/kimsh/HPL_Linpack/hpl-2.3/bin/EPYC_openblas/results/xhpl_N147456_NB256_P8Q32_pf1rf2_nbmin8_ndiv2_bc3_d1_sw2_t256.out
+8
+1
+147456
+1
+256
+0
+1                 # of process grids (P x Q)
+8             # Ps
+32             # Qs
+16.0
+1                 # of panel fact
+1
+1                 # of recursive stopping criterion
+8
+1                 # of panels in recursion
+2
+1                 # of recursive panel fact.
+2
+1                 # of broadcast
+3
+1                 # of lookahead depth
+1
+2          # SWAP (0=bin-exch,1=long,2=mix)
+256        # swapping threshold (~ NB)
+0                 # L1 form (0=transposed,1=no-transposed)
+0                 # U  form (0=transposed,1=no-transposed)
+1                 # equilibration (0=no,1=yes)
+8                 # memory alignment (double)

@@ -177,7 +177,7 @@ CCFLAGS  = $(HPL_DEFS) -O3 -march=native -funroll-loops -fomit-frame-pointer -Wa
 # the Fortran internals used in the BLAS library.
 #
 LINKER       = $(CC)
-LINKFLAGS    = $(CCFLAGS)
+LINKFLAGS    = $(CCFLAGS) -Wl,-rpath,$(OBLAS)/lib
 #
 ARCHIVER     = ar
 ARFLAGS      = r

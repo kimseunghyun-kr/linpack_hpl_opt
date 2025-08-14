@@ -1,0 +1,11 @@
+[xhpl_single] CWD: /home/k/kimsh/HPL_Linpack/hpl-2.3/bin/EPYC_openblas/work/N147456_NB256_P8Q32_pf1rf2_nbmin8_ndiv2_bc1_d1_sw2_t256
+[xhpl_single] DAT line3: /home/k/kimsh/HPL_Linpack/hpl-2.3/bin/EPYC_openblas/results/xhpl_N147456_NB256_P8Q32_pf1rf2_nbmin8_ndiv2_bc1_d1_sw2_t256.out
+[xhpl_single] OUT expected: /home/k/kimsh/HPL_Linpack/hpl-2.3/bin/EPYC_openblas/results/xhpl_N147456_NB256_P8Q32_pf1rf2_nbmin8_ndiv2_bc1_d1_sw2_t256.out
+xcnf4   libopenblas.so.0 => /home/k/kimsh/opt/openblas/lib/libopenblas.so.0 (0x00007b7c47438000)
+xcnf5   libopenblas.so.0 => /home/k/kimsh/opt/openblas/lib/libopenblas.so.0 (0x00007fec37d78000)
+ | 192.168.48.132/21
+ | 192.168.48.133/21
+xcnf6   libopenblas.so.0 => /home/k/kimsh/opt/openblas/lib/libopenblas.so.0 (0x000072d15d0d0000)
+xcnf7   libopenblas.so.0 => /home/k/kimsh/opt/openblas/lib/libopenblas.so.0 (0x000073503d800000)
+ | 192.168.48.134/21
+ | 192.168.48.135/21
