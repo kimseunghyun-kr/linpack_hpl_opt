@@ -41,3 +41,30 @@ ALIGN  : 8 double precision words
 - The relative machine precision (eps) is taken to be               1.110223e-16
 - Computational tests pass if scaled residuals are less than                16.0
 
+================================================================================
+T/V                N    NB     P     Q               Time                 Gflops
+--------------------------------------------------------------------------------
+WR03R2C8      196608   128    16    16            1807.64             2.8029e+03
+HPL_pdgesv() start time Thu Aug 14 16:49:11 2025
+
+HPL_pdgesv() end time   Thu Aug 14 17:19:19 2025
+
+--VVV--VVV--VVV--VVV--VVV--VVV--VVV--VVV--VVV--VVV--VVV--VVV--VVV--VVV--VVV-
+Max aggregated wall time rfact . . . :              18.79
++ Max aggregated wall time pfact . . :              18.03
++ Max aggregated wall time mxswp . . :              17.81
+Max aggregated wall time update  . . :            1721.65
++ Max aggregated wall time laswp . . :             538.21
+Max aggregated wall time up tr sv  . :               0.53
+--------------------------------------------------------------------------------
+||Ax-b||_oo/(eps*(||A||_oo*||x||_oo+||b||_oo)*N)=   8.12116919e-04 ...... PASSED
+================================================================================
+
+Finished      1 tests with the following results:
+              1 tests completed and passed residual checks,
+              0 tests completed and failed residual checks,
+              0 tests skipped because of illegal input values.
+--------------------------------------------------------------------------------
+
+End of Tests.
+================================================================================
