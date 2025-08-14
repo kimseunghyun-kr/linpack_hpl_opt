@@ -1,3 +1,0 @@
-srun: Job step aborted: Waiting up to 32 seconds for job step to finish.
-[2025-08-13T03:45:19.265] error: *** JOB 67404 ON xcnf0 CANCELLED AT 2025-08-13T03:45:19 DUE to SIGNAL Terminated ***
-[2025-08-13T03:45:19.266] error: *** STEP 67404.1 ON xcnf0 CANCELLED AT 2025-08-13T03:45:19 DUE to SIGNAL Terminated ***

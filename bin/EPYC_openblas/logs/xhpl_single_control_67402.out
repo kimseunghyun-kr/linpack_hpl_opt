@@ -1,5 +1,0 @@
-[xhpl_single_control] CWD: /home/k/kimsh/HPL_Linpack/hpl-2.3/bin/EPYC_openblas/work/N80000_NB128_P16Q16_pf1rf1_nbmin4_ndiv2_bc1_d0_sw2_t64
-[xhpl_single_control] DAT line3: /home/k/kimsh/HPL_Linpack/hpl-2.3/bin/EPYC_openblas/results/xhpl_N80000_NB128_P16Q16_pf1rf1_nbmin4_ndiv2_bc1_d0_sw2_t64.out
-[xhpl_single_control] OUT expected: /home/k/kimsh/HPL_Linpack/hpl-2.3/bin/EPYC_openblas/results/xhpl_N80000_NB128_P16Q16_pf1rf1_nbmin4_ndiv2_bc1_d0_sw2_t64.out
-xcnf0  	libopenblas.so.0 => /home/k/kimsh/opt/openblas/lib/libopenblas.so.0 (0x00007dc81de60000)
-	libmpi.so.12 => /home/k/kimsh/.local/mpich/lib/libmpi.so.12 (0x00007dc81a882000)
